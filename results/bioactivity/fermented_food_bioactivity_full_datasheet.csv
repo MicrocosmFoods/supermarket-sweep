@@ -1,0 +1,1000 @@
+﻿Date,BioRep,Plate,Row,Column,Dilution_factor,Sample_number,Substrate,Pre-treatment,Insult,Sample_type,raw_SEAP,raw_ IFN,raw_viability,normalized_SEAP,normalized_IFN,normalized_viability
+20251114,1,BP010,A,1,10,FF0120,Milk,Straus organic whole milk,LPS+,sample,1.115,28048,1.768,136.589,92.937,102.639
+20251114,1,BP010,A,2,10,FF0121,Milk,"Straus organic kefir, plain",LPS+,sample,1.075,30561,1.683,131.450,101.532,96.075
+20251114,1,BP010,A,3,10,FF0122,Milk,alexandre farms prebiotic kefir,LPS+,sample,1.041,30591,1.737,127.186,101.635,100.221
+20251114,1,BP010,A,4,10,FF0123,Milk,kefirlab probiotic kefir,LPS+,sample,1.023,32243,1.857,124.910,107.286,109.567
+20251114,1,BP010,A,5,10,FF0140,Beet,Cultured Beets with fennel,LPS+,sample,1.054,13083,2.222,128.782,41.749,137.800
+20251114,1,BP010,A,6,10,FF0141,Beet,local culture beet + fennel,LPS+,sample,1.094,7591,2.368,133.964,22.964,149.161
+20251114,1,BP010,A,7,10,FF0142,Beet,Sinto Gourmet kraut-chi crunchy beet,LPS+,sample,1.036,7141,2.499,126.484,21.424,159.329
+20251114,1,BP010,A,8,10,FF0143,Beet,wild west ferments moroccan beets,LPS+,sample,1.032,12403,2.027,126.017,39.423,122.734
+20251114,1,BP010,A,9,10,FF0144,Beet,wildbrine red beet & cabbage,LPS+,sample,1.111,8501,2.640,136.030,26.076,170.248
+20251114,1,BP010,A,10,10,FF0145,Cabbage,wild west ferments simply sauerkraut,LPS+,sample,1.125,4060,2.394,137.861,10.886,151.137
+20251114,1,BP010,A,11,10,inhibitor1,Control,60uM PDTC,LPS+,inhibitor,0.417,35579,1.644,47.736,118.696,93.052
+20251114,1,BP010,A,12,10,inhibitor1,Control,60uM PDTC,LPS+,inhibitor,0.472,40337,1.460,54.772,134.971,78.754
+20251114,1,BP010,B,1,10,FF0120,Milk,Straus organic whole milk,LPS+,sample,1.071,28919,1.863,130.958,95.916,109.970
+20251114,1,BP010,B,2,10,FF0121,Milk,"Straus organic kefir, plain",LPS+,sample,0.946,30050,1.662,115.066,99.785,94.447
+20251114,1,BP010,B,3,10,FF0122,Milk,alexandre farms prebiotic kefir,LPS+,sample,0.848,29329,1.783,102.653,97.318,103.794
+20251114,1,BP010,B,4,10,FF0123,Milk,kefirlab probiotic kefir,LPS+,sample,0.861,23352,1.683,104.244,76.874,96.051
+20251114,1,BP010,B,5,10,FF0140,Beet,Cultured Beets with fennel,LPS+,sample,0.976,10212,2.096,118.867,31.929,128.043
+20251114,1,BP010,B,6,10,FF0141,Beet,local culture beet + fennel,LPS+,sample,0.980,5770,2.265,119.390,16.735,141.132
+20251114,1,BP010,B,7,10,FF0142,Beet,Sinto Gourmet kraut-chi crunchy beet,LPS+,sample,0.940,6971,2.388,114.342,20.843,150.719
+20251114,1,BP010,B,8,10,FF0143,Beet,wild west ferments moroccan beets,LPS+,sample,0.919,6460,2.007,111.638,19.095,121.145
+20251114,1,BP010,B,9,10,FF0144,Beet,wildbrine red beet & cabbage,LPS+,sample,1.023,6691,2.323,124.889,19.885,145.689
+20251114,1,BP010,B,10,10,FF0145,Cabbage,wild west ferments simply sauerkraut,LPS+,sample,1.001,6210,2.133,122.045,18.240,130.933
+20251114,1,BP010,B,11,10,inhibitor1,Control,60uM PDTC,LPS+,inhibitor,0.384,34557,1.920,43.534,115.201,114.403
+20251114,1,BP010,B,12,10,inhibitor1,Control,60uM PDTC,LPS+,inhibitor,0.422,37241,1.734,48.369,124.381,99.973
+20251114,1,BP010,C,1,10,FF0146,Cabbage,wild west ferments signature sauerkraut,LPS+,sample,1.179,7611,2.093,144.704,23.032,127.795
+20251114,1,BP010,C,2,10,FF0147,Cabbage,"wild west ferments limited edition saerkraut, green garlic",LPS+,sample,1.096,7681,2.253,134.154,23.271,140.226
+20251114,1,BP010,C,3,10,FF0148,Cabbage. Carrot,wild west erments el curtido,LPS+,sample,1.137,12773,2.013,139.398,40.689,121.603
+20251114,1,BP010,C,4,10,FF0149,Cabbage,wildbrine raw organic kraut,LPS+,sample,1.175,11533,2.198,144.245,36.447,135.932
+20251114,1,BP010,C,5,10,FF0150,Cabbage,sonoma brinery raw sauerkraut,LPS+,sample,1.263,5240,2.149,155.419,14.922,132.181
+20251114,1,BP010,C,6,10,FF0151,Cabbage,farmhouse culture kraut,LPS+,sample,1.037,8011,1.976,126.648,24.400,118.727
+20251114,1,BP010,C,7,10,FF0152,Cabbage,cultured raw vintage kraut,LPS+,sample,1.031,6801,1.830,125.851,20.261,107.428
+20251114,1,BP010,C,8,10,FF0153,Cucumber,britt's pickles,LPS+,sample,0.996,17376,1.837,121.393,56.433,107.971
+20251114,1,BP010,C,9,10,FF0154,Cucumber,"sonoma brinery fresh pickles, manahhaton style",LPS+,sample,0.998,12903,1.970,121.662,41.133,118.278
+20251114,1,BP010,C,10,10,FF0155,Cucumber,bubbie's baby kosher dill pickles,LPS+,sample,0.959,15995,1.858,116.710,51.709,109.598
+20251114,1,BP010,C,11,10,positive_control,Control,PBS,LPS+,positive control,0.804,29359,1.608,96.975,97.421,90.270
+20251114,1,BP010,C,12,10,positive_control,Control,PBS,LPS+,positive control,0.882,35859,1.760,106.964,119.654,102.050
+20251114,1,BP010,D,1,10,FF0146,Cabbage,wild west ferments signature sauerkraut,LPS+,sample,1.188,11963,2.098,145.912,37.918,128.237
+20251114,1,BP010,D,2,10,FF0147,Cabbage,"wild west ferments limited edition saerkraut, green garlic",LPS+,sample,1.163,10532,2.032,142.731,33.023,123.067
+20251114,1,BP010,D,3,10,FF0148,Cabbage. Carrot,wild west erments el curtido,LPS+,sample,1.160,12403,1.949,142.319,39.423,116.674
+20251114,1,BP010,D,4,10,FF0149,Cabbage,wildbrine raw organic kraut,LPS+,sample,1.272,10182,2.345,156.601,31.826,147.386
+20251114,1,BP010,D,5,10,FF0150,Cabbage,sonoma brinery raw sauerkraut,LPS+,sample,1.300,5570,2.246,160.055,16.051,139.722
+20251114,1,BP010,D,6,10,FF0151,Cabbage,farmhouse culture kraut,LPS+,sample,1.248,7711,2.122,153.480,23.374,130.081
+20251114,1,BP010,D,7,10,FF0152,Cabbage,cultured raw vintage kraut,LPS+,sample,1.096,9672,1.842,134.100,30.082,108.397
+20251114,1,BP010,D,8,10,FF0153,Cucumber,britt's pickles,LPS+,sample,1.023,17547,1.766,124.930,57.018,102.468
+20251114,1,BP010,D,9,10,FF0154,Cucumber,"sonoma brinery fresh pickles, manahhaton style",LPS+,sample,1.029,15225,1.810,125.690,49.076,105.894
+20251114,1,BP010,D,10,10,FF0155,Cucumber,bubbie's baby kosher dill pickles,LPS+,sample,0.972,17537,1.704,118.417,56.984,97.648
+20251114,1,BP010,D,11,10,positive_control,Control,PBS,LPS+,positive control,0.793,28118,1.652,95.639,93.176,93.649
+20251114,1,BP010,D,12,10,positive_control,Control,PBS,LPS+,positive control,0.831,27116,1.915,100.422,89.749,114.031
+20251114,1,BP010,E,1,10,FF0156,Cucumber,cultured classic dills,LPS+,sample,1.201,29770,1.729,147.520,98.827,99.624
+20251114,1,BP010,E,2,10,FF0157,Napa cabbage,sinto gourmet kimchi (mild white),LPS+,sample,1.207,19799,1.952,148.225,64.721,116.868
+20251114,1,BP010,E,3,10,FF0158,Napa cabbage,jongga mat kimchi,LPS+,sample,1.107,22421,1.924,135.502,73.690,114.705
+20251114,1,BP010,E,4,10,FF0159,Napa cabbage,"mother in law's kimchi, vegan",LPS+,sample,1.285,8841,2.207,158.174,27.239,136.668
+20251114,1,BP010,E,5,10,FF0160,Napa cabbage,"mother in laow's kimchi, house",LPS+,sample,1.235,11042,2.079,151.858,34.768,126.780
+20251114,1,BP010,E,6,10,FF0161,Napa cabbage,queens beachu kimchi,LPS+,sample,1.172,25895,2.127,143.786,85.572,130.492
+20251114,1,BP010,E,7,10,FF0162,Napa cabbage,cultured napa cabbage kimchi,LPS+,sample,1.189,17296,1.700,145.968,56.159,97.392
+20251114,1,BP010,E,8,10,FF0166,Soy,soy milk,LPS+,sample,0.876,10382,1.568,106.108,32.510,87.155
+20251114,1,BP010,E,9,10,FF0031,Cabbage,Sauerkraut,LPS+,sample,1.036,6721,2.179,126.463,19.988,134.460
+20251114,1,BP010,E,10,10,FF0032,Napa cabbage,Cleveland Kimchi,LPS+,sample,1.003,9492,2.091,122.382,29.466,127.671
+20251114,1,BP010,E,11,10,negative_control,Control,PBS,LPS-,negative control,0.042,940,1.250,0.044,0.214,62.487
+20251114,1,BP010,E,12,10,negative_control,Control,PBS,LPS-,negative control,0.042,960,1.251,0.044,0.282,62.595
+20251114,1,BP010,F,1,10,FF0156,Cucumber,cultured classic dills,LPS+,sample,1.295,29780,1.661,159.422,98.861,94.385
+20251114,1,BP010,F,2,10,FF0157,Napa cabbage,sinto gourmet kimchi (mild white),LPS+,sample,1.174,24163,1.862,144.085,79.648,109.924
+20251114,1,BP010,F,3,10,FF0158,Napa cabbage,jongga mat kimchi,LPS+,sample,1.072,13664,2.186,131.079,43.736,135.056
+20251114,1,BP010,F,4,10,FF0159,Napa cabbage,"mother in law's kimchi, vegan",LPS+,sample,1.241,9412,2.235,152.567,29.192,138.838
+20251114,1,BP010,F,5,10,FF0160,Napa cabbage,"mother in laow's kimchi, house",LPS+,sample,1.263,12943,2.025,155.405,41.270,122.571
+20251114,1,BP010,F,6,10,FF0161,Napa cabbage,queens beachu kimchi,LPS+,sample,1.182,27787,2.138,145.149,92.044,131.344
+20251114,1,BP010,F,7,10,FF0162,Napa cabbage,cultured napa cabbage kimchi,LPS+,sample,1.151,18257,1.747,141.158,59.447,100.996
+20251114,1,BP010,F,8,10,FF0166,Soy,soy milk,LPS+,sample,0.853,10092,1.581,103.183,31.518,88.185
+20251114,1,BP010,F,9,10,FF0031,Cabbage,Sauerkraut,LPS+,sample,1.007,6250,2.200,122.853,18.377,136.149
+20251114,1,BP010,F,10,10,FF0032,Napa cabbage,Cleveland Kimchi,LPS+,sample,1.013,8241,2.181,123.597,25.187,134.630
+20251114,1,BP010,F,11,10,negative_control,Control,PBS,LPS-,negative control,0.041,620,1.244,-0.037,-0.881,62.061
+20251114,1,BP010,F,12,10,negative_control,Control,PBS,LPS-,negative control,0.041,990,1.264,-0.051,0.385,63.611
+20251114,1,BP010,G,1,10,FF0033,Napa cabbage,Sinto Gourmet Kimchi,LPS+,sample,1.025,11563,2.544,125.080,36.550,162.770
+20251114,1,BP010,G,2,10,FF0047,Milk,Buttermilk,LPS+,sample,1.057,25494,1.845,129.212,84.201,108.614
+20251114,1,BP010,G,3,10,FF0049,Beet,Fermented Beet Concentrate,LPS+,sample,1.121,2940,1.828,137.328,7.055,107.281
+20251114,1,BP010,G,4,10,FF0050,Carrot,Fermented Carrot Concentrate,LPS+,sample,1.319,22922,1.854,162.530,75.403,109.273
+20251114,1,BP010,G,5,10,FF0076,Fruit,Biotic Ferments turmeric tangerine kvass,LPS+,sample,1.113,24393,1.750,136.269,80.435,101.228
+20251114,1,BP010,G,6,10,FF0077,Beet,Biotic Ferments classic beet kvass,LPS+,sample,1.040,17286,2.017,127.003,56.125,121.920
+20251114,1,BP010,G,7,10,FF0083,Beet,Cleveland Kraut Beet Red,LPS+,sample,1.138,9251,2.138,139.561,28.642,131.329
+20251114,1,BP010,G,8,10,FF0087,Soy,San-J Organic Tamari,LPS+,sample,1.183,3930,1.757,145.216,10.441,101.794
+20251114,1,BP010,G,9,10,FF0100,Cabbage,Cultured Pickle Raw Vintage Kraut,LPS+,sample,0.983,7041,2.010,119.790,21.082,121.370
+20251114,1,BP010,G,10,10,FF0102,Carrot,Cultured Pickle Carrots in Ginger Turmeric Brine,LPS+,sample,1.001,28618,1.694,122.107,94.886,96.873
+20251114,1,BP010,G,11,10,blank,NA,PBS,LPS+,blank,0.813,28769,1.627,98.167,95.403,91.712
+20251114,1,BP010,G,12,10,kill_control,NA,2.5% DMSO,LPS+,kill control,0.820,1600,0.494,99.070,2.471,3.906
+20251114,1,BP010,H,1,10,FF0033,Napa cabbage,Sinto Gourmet Kimchi,LPS+,sample,1.076,9161,2.551,131.626,28.334,163.336
+20251114,1,BP010,H,2,10,FF0047,Milk,Buttermilk,LPS+,sample,1.105,22111,1.826,135.273,72.629,107.126
+20251114,1,BP010,H,3,10,FF0049,Beet,Fermented Beet Concentrate,LPS+,sample,1.082,4350,2.077,132.358,11.878,126.625
+20251114,1,BP010,H,4,10,FF0050,Carrot,Fermented Carrot Concentrate,LPS+,sample,1.296,19398,1.926,159.605,63.349,114.891
+20251114,1,BP010,H,5,10,FF0076,Fruit,Biotic Ferments turmeric tangerine kvass,LPS+,sample,1.171,24173,1.757,143.668,79.682,101.786
+20251114,1,BP010,H,6,10,FF0077,Beet,Biotic Ferments classic beet kvass,LPS+,sample,1.121,14474,2.043,137.394,46.507,123.943
+20251114,1,BP010,H,7,10,FF0083,Beet,Cleveland Kraut Beet Red,LPS+,sample,1.153,9051,2.171,141.360,27.957,133.855
+20251114,1,BP010,H,8,10,FF0087,Soy,San-J Organic Tamari,LPS+,sample,1.076,2410,1.499,131.664,5.242,81.815
+20251114,1,BP010,H,9,10,FF0100,Cabbage,Cultured Pickle Raw Vintage Kraut,LPS+,sample,1.039,7111,1.955,126.961,21.322,117.139
+20251114,1,BP010,H,10,10,FF0102,Carrot,Cultured Pickle Carrots in Ginger Turmeric Brine,LPS+,sample,1.080,29439,1.661,132.135,97.695,94.331
+20251114,1,BP010,H,11,10,blank,NA,PBS,LPS+,blank,0.900,38994,1.703,109.197,130.377,97.586
+20251114,1,BP010,H,12,10,kill_control,NA,2.5% DMSO,LPS+,kill control,0.837,890,0.393,101.227,0.043,-3.906
+20251114,1,BP011,A,1,10,FF0022,Soy,Seoulfully! Umami Korean Sauce,LPS+,sample,1.430,4638,2.138,161.919,11.299,142.661
+20251114,1,BP011,A,2,10,FF0023,Soy,Seoulfully! Sweet & Savory Korean Sauce,LPS+,sample,1.430,8979,2.194,161.971,24.970,147.346
+20251114,1,BP011,A,3,10,FF0024,Soy,Seoulfully! Smoky Korean Sauce,LPS+,sample,1.366,5738,2.504,154.485,14.763,173.041
+20251114,1,BP011,A,4,10,FF0025,Soy,Seoulfully! Gochu Korean Sauce,LPS+,sample,1.354,11120,2.334,153.027,31.713,158.887
+20251114,1,BP011,A,5,10,FF0034,Soy,Mellow White Miso,LPS+,sample,1.151,20297,2.200,129.431,60.615,147.827
+20251114,1,BP011,A,6,10,FF0037,Soy,Sweet White Miso,LPS+,sample,1.100,19756,2.277,123.493,58.911,154.194
+20251114,1,BP011,A,7,10,FF0039,Milk,Reggiano Parmesean,LPS+,sample,0.938,24451,1.979,104.481,73.698,129.494
+20251114,1,BP011,A,8,10,FF0041,Milk,Point Reyes Bay Blue,LPS+,sample,0.919,21248,1.648,102.282,63.610,102.042
+20251114,1,BP011,A,9,10,FF0040,Milk,Swiss Emmentaler,LPS+,sample,0.961,32382,1.841,107.242,98.676,118.044
+20251114,1,BP011,A,10,10,FF0042,Milk,Roquefort blue cheese,LPS+,sample,1.011,38541,1.789,113.038,118.073,113.766
+20251114,1,BP011,A,11,10,inhibitor1,Control,60uM PDTC,LPS+,inhibitor,0.445,42809,1.850,46.944,131.515,118.832
+20251114,1,BP011,A,12,10,inhibitor1,Control,60uM PDTC,LPS+,inhibitor,0.514,44102,1.774,55.100,135.587,112.497
+20251114,1,BP011,B,1,10,FF0022,Soy,Seoulfully! Umami Korean Sauce,LPS+,sample,1.410,3858,2.093,159.614,8.842,138.930
+20251114,1,BP011,B,2,10,FF0023,Soy,Seoulfully! Sweet & Savory Korean Sauce,LPS+,sample,1.443,10340,2.053,163.468,29.256,135.613
+20251114,1,BP011,B,3,10,FF0024,Soy,Seoulfully! Smoky Korean Sauce,LPS+,sample,1.405,7609,2.216,158.988,20.655,149.128
+20251114,1,BP011,B,4,10,FF0025,Soy,Seoulfully! Gochu Korean Sauce,LPS+,sample,1.118,16864,2.136,125.504,49.803,142.520
+20251114,1,BP011,B,5,10,FF0034,Soy,Mellow White Miso,LPS+,sample,1.057,19967,2.001,118.446,59.576,131.277
+20251114,1,BP011,B,6,10,FF0037,Soy,Sweet White Miso,LPS+,sample,1.043,18375,2.109,116.805,54.562,140.281
+20251114,1,BP011,B,7,10,FF0039,Milk,Reggiano Parmesean,LPS+,sample,0.831,21358,1.973,92.027,63.957,128.972
+20251114,1,BP011,B,8,10,FF0041,Milk,Point Reyes Bay Blue,LPS+,sample,1.003,15083,1.701,112.172,44.194,106.478
+20251114,1,BP011,B,9,10,FF0040,Milk,Swiss Emmentaler,LPS+,sample,0.891,31200,1.893,99.028,94.953,122.364
+20251114,1,BP011,B,10,10,FF0042,Milk,Roquefort blue cheese,LPS+,sample,0.952,34375,1.668,106.126,104.952,103.725
+20251114,1,BP011,B,11,10,inhibitor1,Control,60uM PDTC,LPS+,inhibitor,0.375,35556,1.715,38.865,108.672,107.572
+20251114,1,BP011,B,12,10,inhibitor1,Control,60uM PDTC,LPS+,inhibitor,0.436,47269,1.784,45.915,145.561,113.359
+20251114,1,BP011,C,1,10,FF0043,Milk,Laura Chenel,LPS+,sample,1.003,31550,2.307,112.088,96.055,156.698
+20251114,1,BP011,C,2,10,FF0062,Milk,Gourmino Hornbacher cheese,LPS+,sample,0.954,26363,1.850,106.399,79.719,118.774
+20251114,1,BP011,C,3,10,FF0063,Milk,Belper knolle cheese,LPS+,sample,1.020,6689,1.731,114.048,17.758,108.915
+20251114,1,BP011,C,4,10,FF0091,Soy,MeeChun Salted black bean,LPS+,sample,1.133,8809,2.009,127.336,24.435,131.990
+20251114,1,BP011,C,5,10,FF0092,Soy,New York Natto Organic,LPS+,sample,0.998,21858,2.060,111.543,65.531,136.244
+20251114,1,BP011,C,6,10,FF0093,Milk,Kalona Supernatural Organic Cultured Buttermilk,LPS+,sample,1.075,24161,1.705,120.484,72.784,106.801
+20251114,1,BP011,C,7,10,FF0124,milk,white mountain bulgarian yogurt,LPS+,sample,0.969,25242,1.679,108.183,76.189,104.645
+20251114,1,BP011,C,8,10,FF0125,milk,straus organic yogurt,LPS+,sample,0.865,22089,1.607,96.047,66.259,98.609
+20251114,1,BP011,C,9,10,FF0126,Milk,nancy's probiotic whole milk yogurt,LPS+,sample,0.888,25542,1.644,98.727,77.134,101.752
+20251114,1,BP011,C,10,10,FF0127,Milk,bellwether farms a2 organic whole milk yogurt,LPS+,sample,0.926,28947,1.727,103.182,87.857,108.617
+20251114,1,BP011,C,11,10,positive_control,Control,PBS,LPS+,positive control,0.868,37089,1.592,96.370,113.500,97.390
+20251114,1,BP011,C,12,10,positive_control,Control,PBS,LPS+,positive control,0.936,31250,1.661,104.329,95.111,103.111
+20251114,1,BP011,D,1,10,FF0043,Milk,Laura Chenel,LPS+,sample,1.041,39042,2.094,116.599,119.651,139.013
+20251114,1,BP011,D,2,10,FF0062,Milk,Gourmino Hornbacher cheese,LPS+,sample,1.027,23170,1.964,114.888,69.663,128.226
+20251114,1,BP011,D,3,10,FF0063,Milk,Belper knolle cheese,LPS+,sample,1.045,7499,1.830,117.047,20.309,117.140
+20251114,1,BP011,D,4,10,FF0091,Soy,MeeChun Salted black bean,LPS+,sample,1.203,20847,2.003,135.428,62.347,131.459
+20251114,1,BP011,D,5,10,FF0092,Soy,New York Natto Organic,LPS+,sample,1.028,28596,1.926,115.082,86.752,125.083
+20251114,1,BP011,D,6,10,FF0093,Milk,Kalona Supernatural Organic Cultured Buttermilk,LPS+,sample,0.997,27675,1.727,111.429,83.851,108.592
+20251114,1,BP011,D,7,10,FF0124,milk,white mountain bulgarian yogurt,LPS+,sample,0.874,28947,1.596,97.006,87.857,97.772
+20251114,1,BP011,D,8,10,FF0125,milk,straus organic yogurt,LPS+,sample,0.885,26874,1.569,98.348,81.329,95.458
+20251114,1,BP011,D,9,10,FF0126,Milk,nancy's probiotic whole milk yogurt,LPS+,sample,0.836,25783,1.609,92.647,77.893,98.783
+20251114,1,BP011,D,10,10,FF0127,Milk,bellwether farms a2 organic whole milk yogurt,LPS+,sample,0.829,23100,1.626,91.853,69.443,100.234
+20251114,1,BP011,D,11,10,positive_control,Control,PBS,LPS+,positive control,0.853,30469,1.621,94.561,92.651,99.845
+20251114,1,BP011,D,12,10,positive_control,Control,PBS,LPS+,positive control,0.940,32402,1.619,104.740,98.739,99.654
+20251114,1,BP011,E,1,10,FF0128,Milk,alexandre family famr a2/a2 organic plain yogurt,LPS+,sample,1.038,30979,1.843,116.249,94.257,118.226
+20251114,1,BP011,E,2,10,FF0129,Milk,la fermiere creamy whole milk yogurt,LPS+,sample,0.999,27645,1.748,111.626,83.757,110.366
+20251114,1,BP011,E,3,10,FF0130,Milk,good culture cottage cheese,LPS+,sample,0.988,26994,1.908,110.336,81.707,123.566
+20251114,1,BP011,E,4,10,FF0131,Milk,vermont creamery creme fraiche,LPS+,sample,1.058,27435,1.914,118.529,83.096,124.080
+20251114,1,BP011,E,5,10,FF0132,Milk,good culture cream cheese spread,LPS+,sample,1.043,29658,1.868,116.792,90.097,120.291
+20251114,1,BP011,E,6,10,FF0133,Milk,le chatelain camembert,LPS+,sample,0.911,40455,1.869,101.378,124.101,120.407
+20251114,1,BP011,E,7,10,FF0134,Milk,jasper hill farm willoughby,LPS+,sample,0.852,48181,1.427,94.440,148.433,83.726
+20251114,1,BP011,E,8,10,FF0135,Milk,jasper hill farm cabot clothbound,LPS+,sample,0.901,31240,1.838,100.163,95.079,117.787
+20251114,1,BP011,E,9,10,FF0136,Milk,rivoir-jacques vache comte,LPS+,sample,0.856,20097,1.832,94.927,59.985,117.281
+20251114,1,BP011,E,10,10,FF0137,Milk,le gryuere switzerland,LPS+,sample,0.896,21268,1.751,99.589,63.673,110.615
+20251114,1,BP011,E,11,10,negative_control,Control,PBS,LPS-,negative control,0.044,878,1.317,0.155,-0.543,74.606
+20251114,1,BP011,E,12,10,negative_control,Control,PBS,LPS-,negative control,0.042,1058,1.212,0.013,0.024,65.925
+20251114,1,BP011,F,1,10,FF0128,Milk,alexandre family famr a2/a2 organic plain yogurt,LPS+,sample,1.043,29748,1.947,116.755,90.380,126.874
+20251114,1,BP011,F,2,10,FF0129,Milk,la fermiere creamy whole milk yogurt,LPS+,sample,0.952,23170,1.859,106.220,69.663,119.503
+20251114,1,BP011,F,3,10,FF0130,Milk,good culture cottage cheese,LPS+,sample,0.932,30098,1.926,103.840,91.482,125.117
+20251114,1,BP011,F,4,10,FF0131,Milk,vermont creamery creme fraiche,LPS+,sample,1.049,28446,1.990,117.508,86.280,130.406
+20251114,1,BP011,F,5,10,FF0132,Milk,good culture cream cheese spread,LPS+,sample,1.020,31200,1.775,114.122,94.953,112.580
+20251114,1,BP011,F,6,10,FF0133,Milk,le chatelain camembert,LPS+,sample,0.963,32011,1.879,107.480,97.507,121.211
+20251114,1,BP011,F,7,10,FF0134,Milk,jasper hill farm willoughby,LPS+,sample,0.987,31690,1.862,110.274,96.496,119.785
+20251114,1,BP011,F,8,10,FF0135,Milk,jasper hill farm cabot clothbound,LPS+,sample,0.932,29738,1.784,103.861,90.349,113.293
+20251114,1,BP011,F,9,10,FF0136,Milk,rivoir-jacques vache comte,LPS+,sample,0.868,19927,1.875,96.381,59.450,120.888
+20251114,1,BP011,F,10,10,FF0137,Milk,le gryuere switzerland,LPS+,sample,0.844,24331,1.787,93.583,73.320,113.575
+20251114,1,BP011,F,11,10,negative_control,Control,PBS,LPS-,negative control,0.041,1108,1.256,-0.157,0.181,69.548
+20251114,1,BP011,F,12,10,negative_control,Control,PBS,LPS-,negative control,0.042,1158,1.246,-0.011,0.339,68.735
+20251114,1,BP011,G,1,10,FF0138,Milk,beemster aged gouda,LPS+,sample,1.029,25062,2.235,115.203,75.622,150.737
+20251114,1,BP011,G,2,10,FF0139,Milk,"taleggio (rennet, italy)",LPS+,sample,1.042,33253,1.956,116.695,101.419,127.579
+20251114,1,BP011,G,3,10,FF0163,Soy,cultured sweet white miso,LPS+,sample,1.196,28656,2.135,134.681,86.941,142.429
+20251114,1,BP011,G,4,10,FF0164,Soy,aedan japanese fermented country miso,LPS+,sample,1.213,23300,2.042,136.670,70.073,134.710
+20251114,1,BP011,G,5,10,FF0165,Soy,yabajurushi tsubu jikomi miso,LPS+,sample,1.468,4468,1.934,166.434,10.763,125.755
+20251114,1,BP011,G,6,10,FF0167,Carrot,carrot,LPS+,sample,0.764,5778,1.719,84.193,14.889,107.904
+20251114,1,BP011,G,7,10,FF0168,Beet,beet,LPS+,sample,0.922,12281,2.061,102.643,35.369,136.268
+20251114,1,BP011,G,8,10,FF0169,Cucumber,cucumber,LPS+,sample,0.796,9059,1.756,87.996,25.222,110.988
+20251114,1,BP011,G,9,10,FF0170,Cabbage,cabbage,LPS+,sample,0.962,17114,1.805,107.328,50.591,115.092
+20251114,1,BP011,G,10,10,FF0171,Napa cabbage,napa cabbage,LPS+,sample,0.846,10340,1.641,93.836,29.256,101.495
+20251114,1,BP011,G,11,10,blank,NA,PBS,LPS+,blank,0.839,29858,1.678,93.010,90.727,104.554
+20251114,1,BP011,G,12,10,kill_control,NA,2.5% DMSO,LPS+,kill control,0.847,1338,0.459,93.900,0.905,3.499
+20251114,1,BP011,H,1,10,FF0138,Milk,beemster aged gouda,LPS+,sample,1.155,27355,2.116,129.829,82.844,140.870
+20251114,1,BP011,H,2,10,FF0139,Milk,"taleggio (rennet, italy)",LPS+,sample,1.065,36358,2.053,119.308,111.198,135.663
+20251114,1,BP011,H,3,10,FF0163,Soy,cultured sweet white miso,LPS+,sample,1.070,26804,2.156,119.937,81.108,144.178
+20251114,1,BP011,H,4,10,FF0164,Soy,aedan japanese fermented country miso,LPS+,sample,1.252,9299,2.171,141.228,25.978,145.430
+20251114,1,BP011,H,5,10,FF0165,Soy,yabajurushi tsubu jikomi miso,LPS+,sample,1.275,3908,1.884,143.898,8.999,121.626
+20251114,1,BP011,H,6,10,FF0167,Carrot,carrot,LPS+,sample,0.716,3008,1.739,78.579,6.165,109.595
+20251114,1,BP011,H,7,10,FF0168,Beet,beet,LPS+,sample,0.930,7989,2.274,103.640,21.852,153.929
+20251114,1,BP011,H,8,10,FF0169,Cucumber,cucumber,LPS+,sample,0.880,9630,1.902,97.713,27.020,123.135
+20251114,1,BP011,H,9,10,FF0170,Cabbage,cabbage,LPS+,sample,0.995,10810,1.805,111.226,30.737,115.034
+20251114,1,BP011,H,10,10,FF0171,Napa cabbage,napa cabbage,LPS+,sample,0.563,1738,1.474,60.726,2.165,87.623
+20251114,1,BP011,H,11,10,blank,NA,PBS,LPS+,blank,0.941,33834,1.501,104.898,103.249,89.878
+20251114,1,BP011,H,12,10,kill_control,NA,2.5% DMSO,LPS+,kill control,0.873,1258,0.375,96.891,0.654,-3.499
+20260128,1,BP012,A,1,10,FF0036,Soy,Traditional Red Miso,LPS+,Sample,0.08,400,0.610,10.29,-1.81,14.06
+20260128,1,BP012,A,2,10,FF0086,vegetable,Fermented seaweed salad,LPS+,Sample,0.12,970,1.380,22.37,-0.1,49.59
+20260128,1,BP012,A,3,10,FF0140,Vegetable,Cultured Beets with fennel,LPS+,Sample,0.47,8021,3.210,130.53,21.06,134.39
+20260128,1,BP012,A,4,10,FF0141,Vegetable,local culture beet + fennel,LPS+,Sample,0.52,7121,2.580,147.48,18.36,105.46
+20260128,1,BP012,A,5,10,FF0142,Vegetable - Cabbage,Sinto Gourmet kraut-chi crunchy beet,LPS+,Sample,0.52,5290,3.640,147.23,12.87,154.29
+20260128,1,BP012,A,6,10,FF0143,Vegetable,wild west ferments moroccan beets,LPS+,Sample,0.49,8691,2.970,136.45,23.07,123.48
+20260128,1,BP012,A,7,10,FF0144,Vegetable - Cabbage,wildbrine red beet & cabbage,LPS+,Sample,0.53,7131,3.720,151.13,18.39,158.22
+20260128,1,BP012,A,8,10,FF0145,Vegetable - Cabbage,wild west ferments simply sauerkraut,LPS+,Sample,0.51,5350,3.050,143.96,13.05,127.07
+20260128,1,BP012,A,9,10,FF0172,grain,rejuvelac,LPS+,Sample,0.46,10432,3.550,128.5,28.3,150.08
+20260128,1,BP012,A,10,10,FF0173,sugar,GT's kombucha,LPS+,Sample,0.45,25214,2.430,125.46,72.66,98.29
+20260128,1,BP012,A,11,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.18,38653,2.480,41.93,112.98,100.71
+20260128,1,BP012,A,12,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.18,42841,2.510,43,125.55,101.92
+20260128,1,BP012,B,1,10,FF0036,Soy,Traditional Red Miso,LPS+,Sample,0.49,5940,2.800,138.65,14.82,115.64
+20260128,1,BP012,B,2,10,FF0086,vegetable,Fermented seaweed salad,LPS+,Sample,0.4,4980,3.010,110.99,11.94,125.03
+20260128,1,BP012,B,3,10,FF0140,Vegetable,Cultured Beets with fennel,LPS+,Sample,0.45,8311,3.040,126.75,21.93,126.74
+20260128,1,BP012,B,4,10,FF0141,Vegetable,local culture beet + fennel,LPS+,Sample,0.52,7801,3.370,146.52,20.4,142.03
+20260128,1,BP012,B,5,10,FF0142,Vegetable - Cabbage,Sinto Gourmet kraut-chi crunchy beet,LPS+,Sample,0.52,6270,3.560,146.54,15.81,150.87
+20260128,1,BP012,B,6,10,FF0143,Vegetable,wild west ferments moroccan beets,LPS+,Sample,0.48,7211,2.900,135.03,18.63,120.32
+20260128,1,BP012,B,7,10,FF0144,Vegetable - Cabbage,wildbrine red beet & cabbage,LPS+,Sample,0.51,7721,3.420,145.44,20.16,144.28
+20260128,1,BP012,B,8,10,FF0145,Vegetable - Cabbage,wild west ferments simply sauerkraut,LPS+,Sample,0.5,4480,2.990,142.04,10.44,124.49
+20260128,1,BP012,B,9,10,FF0172,grain,rejuvelac,LPS+,Sample,0.45,11332,3.380,124.42,31,142.6
+20260128,1,BP012,B,10,10,FF0173,sugar,GT's kombucha,LPS+,Sample,0.43,29319,2.360,120.63,84.97,94.95
+20260128,1,BP012,B,11,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.18,38072,2.470,42.58,111.24,100.15
+20260128,1,BP012,B,12,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.18,39304,2.410,40.84,114.94,97.22
+20260128,1,BP012,C,1,10,FF0036,Soy,Traditional Red Miso,LPS+,Sample,0.1,490,0.740,16.68,-1.54,20.3
+20260128,1,BP012,C,2,10,FF0086,vegetable,Fermented seaweed salad,LPS+,Sample,0.42,6330,3.010,116.91,15.99,125.02
+20260128,1,BP012,C,3,10,FF0140,Vegetable,Cultured Beets with fennel,LPS+,Sample,0.46,9011,3.060,127.49,24.03,127.38
+20260128,1,BP012,C,4,10,FF0141,Vegetable,local culture beet + fennel,LPS+,Sample,0.51,8781,3.260,142.88,23.34,136.93
+20260128,1,BP012,C,5,10,FF0142,Vegetable - Cabbage,Sinto Gourmet kraut-chi crunchy beet,LPS+,Sample,0.51,6440,3.430,143.34,16.32,144.71
+20260128,1,BP012,C,6,10,FF0143,Vegetable,wild west ferments moroccan beets,LPS+,Sample,0.47,8571,2.790,130.81,22.71,115.09
+20260128,1,BP012,C,7,10,FF0144,Vegetable - Cabbage,wildbrine red beet & cabbage,LPS+,Sample,0.52,8051,3.370,147.06,21.15,142.1
+20260128,1,BP012,C,8,10,FF0145,Vegetable - Cabbage,wild west ferments simply sauerkraut,LPS+,Sample,0.51,5500,3.040,144.85,13.5,126.85
+20260128,1,BP012,C,9,10,FF0172,grain,rejuvelac,LPS+,Sample,0.44,12423,3.740,121.68,34.27,158.92
+20260128,1,BP012,C,10,10,FF0173,sugar,GT's kombucha,LPS+,Sample,0.44,31171,2.270,122.44,90.53,91.16
+20260128,1,BP012,C,11,10,positive_control,NA,PBS,LPS+,positive_control,0.38,37641,2.340,104.48,109.95,94.1
+20260128,1,BP012,C,12,10,positive_control,NA,PBS,LPS+,positive_control,0.32,30080,2.270,86.65,87.26,91.02
+20260128,1,BP012,D,1,10,FF0036,Soy,Traditional Red Miso,LPS+,Sample,0.22,850,1.230,54.08,-0.46,42.75
+20260128,1,BP012,D,2,10,FF0086,vegetable,Fermented seaweed salad,LPS+,Sample,0.42,6020,2.950,117.38,15.06,122.63
+20260128,1,BP012,D,3,10,FF0140,Vegetable,Cultured Beets with fennel,LPS+,Sample,0.47,9482,3.020,130.35,25.45,125.75
+20260128,1,BP012,D,4,10,FF0141,Vegetable,local culture beet + fennel,LPS+,Sample,0.51,7491,3.300,144.78,19.47,138.53
+20260128,1,BP012,D,5,10,FF0142,Vegetable - Cabbage,Sinto Gourmet kraut-chi crunchy beet,LPS+,Sample,0.52,5980,3.450,146.04,14.94,145.48
+20260128,1,BP012,D,6,10,FF0143,Vegetable,wild west ferments moroccan beets,LPS+,Sample,0.48,8121,2.870,135.4,21.36,118.93
+20260128,1,BP012,D,7,10,FF0144,Vegetable - Cabbage,wildbrine red beet & cabbage,LPS+,Sample,0.52,6590,3.470,147.6,16.77,146.77
+20260128,1,BP012,D,8,10,FF0145,Vegetable - Cabbage,wild west ferments simply sauerkraut,LPS+,Sample,0.5,4410,2.840,140.52,10.23,117.54
+20260128,1,BP012,D,9,10,FF0172,grain,rejuvelac,LPS+,Sample,0.45,12043,3.300,124.15,33.13,138.61
+20260128,1,BP012,D,10,10,FF0173,sugar,GT's kombucha,LPS+,Sample,0.44,31061,2.260,123.42,90.2,90.33
+20260128,1,BP012,D,11,10,positive_control,NA,PBS,LPS+,positive_control,0.38,32543,2.410,104.39,94.65,97.53
+20260128,1,BP012,D,12,10,positive_control,NA,PBS,LPS+,positive_control,0.38,37040,2.330,104.48,108.14,93.73
+20260128,1,BP012,E,1,10,FF0174,Fruit,Wildbrine probiotic sriracha,LPS+,Sample,0.48,4210,2.710,135.72,9.63,111.21
+20260128,1,BP012,E,2,10,FF0175,Fruit,Huy fong sriracha chili sauce,LPS+,Sample,0.29,10652,0.850,76.79,28.96,25.16
+20260128,1,BP012,E,3,10,FF0176,Fruit,Mani pitted castelvetrano olives,LPS+,Sample,0.45,21500,2.610,125.51,61.51,106.69
+20260128,1,BP012,E,4,10,FF0177,Fruit,Berkeley Bowl kalamata olives pitted,LPS+,Sample,0.55,20809,2.450,157.2,59.44,99.19
+20260128,1,BP012,E,5,10,FF0178,Vegetable - Cabbage,Golden State Pickle Works cabbage w/ caraway,LPS+,Sample,0.46,9902,2.890,129,26.71,119.66
+20260128,1,BP012,E,6,10,FF0179,Soy,Dragonfly preserved bean curd in chili oil,LPS+,Sample,0.4,5950,2.700,111.07,14.85,110.76
+20260128,1,BP012,E,7,10,FF0180,Soy,NY natto black,LPS+,Sample,0.42,9972,2.740,116.42,26.92,112.9
+20260128,1,BP012,E,8,10,FF0181,Soy,Lightlife organic tempeh original,LPS+,Sample,0.09,850,0.680,15.71,-0.46,17.12
+20260128,1,BP012,E,9,10,FF0183,Meat,Fra'mani salametto salame,LPS+,Sample,0.1,990,0.800,16.1,-0.04,22.87
+20260128,1,BP012,E,10,10,FF0184,Meat,Journeyman meat co saucisson sec salame,LPS+,Sample,0.44,25504,3.150,122.33,73.53,131.53
+20260128,1,BP012,E,11,10,negative_control,NA,PBS,LPS-,negative_control,0.04,1080,1.880,0.03,0.23,72.75
+20260128,1,BP012,E,12,10,negative_control,NA,PBS,LPS-,negative_control,0.04,970,1.870,-0.13,-0.1,72.42
+20260128,1,BP012,F,1,10,FF0174,Fruit,Wildbrine probiotic sriracha,LPS+,Sample,0.45,3360,2.580,127,7.07,105.49
+20260128,1,BP012,F,2,10,FF0175,Fruit,Huy fong sriracha chili sauce,LPS+,Sample,0.52,22331,1.910,146.58,64,74.49
+20260128,1,BP012,F,3,10,FF0176,Fruit,Mani pitted castelvetrano olives,LPS+,Sample,0.48,22531,2.650,135.95,64.6,108.54
+20260128,1,BP012,F,4,10,FF0177,Fruit,Berkeley Bowl kalamata olives pitted,LPS+,Sample,0.55,19918,2.400,157.75,56.76,97.19
+20260128,1,BP012,F,5,10,FF0178,Vegetable - Cabbage,Golden State Pickle Works cabbage w/ caraway,LPS+,Sample,0.48,8231,2.990,135.8,21.69,124.28
+20260128,1,BP012,F,6,10,FF0179,Soy,Dragonfly preserved bean curd in chili oil,LPS+,Sample,0.32,2600,2.290,86.89,4.79,92.08
+20260128,1,BP012,F,7,10,FF0180,Soy,NY natto black,LPS+,Sample,0.44,5290,2.890,123.24,12.87,119.54
+20260128,1,BP012,F,8,10,FF0181,Soy,Lightlife organic tempeh original,LPS+,Sample,0.42,15805,3.160,115.69,44.42,132.25
+20260128,1,BP012,F,9,10,FF0183,Meat,Fra'mani salametto salame,LPS+,Sample,0.06,420,0.470,4.4,-1.75,7.51
+20260128,1,BP012,F,10,10,FF0184,Meat,Journeyman meat co saucisson sec salame,LPS+,Sample,0.41,15005,3.100,112.48,42.02,129.29
+20260128,1,BP012,F,11,10,negative_control,NA,PBS,LPS-,negative_control,0.04,1010,1.840,0.07,0.02,71.18
+20260128,1,BP012,F,12,10,negative_control,NA,PBS,LPS-,negative_control,0.04,950,1.850,0.03,-0.16,71.51
+20260128,1,BP012,G,1,10,FF0174,Fruit,Wildbrine probiotic sriracha,LPS+,Sample,0.45,3590,2.550,126,7.76,104.13
+20260128,1,BP012,G,2,10,FF0175,Fruit,Huy fong sriracha chili sauce,LPS+,Sample,0.45,16676,1.480,125.81,47.03,54.52
+20260128,1,BP012,G,3,10,FF0176,Fruit,Mani pitted castelvetrano olives,LPS+,Sample,0.48,22891,2.690,134.91,65.68,110.45
+20260128,1,BP012,G,4,10,FF0177,Fruit,Berkeley Bowl kalamata olives pitted,LPS+,Sample,0.55,22030,2.430,156.39,63.1,98.29
+20260128,1,BP012,G,5,10,FF0178,Vegetable - Cabbage,Golden State Pickle Works cabbage w/ caraway,LPS+,Sample,0.46,9131,3.000,127.07,24.39,124.72
+20260128,1,BP012,G,6,10,FF0179,Soy,Dragonfly preserved bean curd in chili oil,LPS+,Sample,0.4,7001,2.770,110.42,18,114.19
+20260128,1,BP012,G,7,10,FF0180,Soy,NY natto black,LPS+,Sample,0.44,11072,2.820,121.68,30.22,116.21
+20260128,1,BP012,G,8,10,FF0181,Soy,Lightlife organic tempeh original,LPS+,Sample,0.19,3560,1.330,46.67,7.67,47.38
+20260128,1,BP012,G,9,10,FF0183,Meat,Fra'mani salametto salame,LPS+,Sample,0.44,14424,4.000,121.24,40.28,171.1
+20260128,1,BP012,G,10,10,FF0184,Meat,Journeyman meat co saucisson sec salame,LPS+,Sample,0.44,15425,3.410,121.04,43.28,143.97
+20260128,1,BP012,G,11,10,blank,NA,PBS,LPS+,blank,0.04,1110,1.860,-1.19,0.32,72.19
+20260128,1,BP012,G,12,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.18,540,0.310,41.07,-1.39,0.29
+20260128,1,BP012,H,1,10,FF0174,Fruit,Wildbrine probiotic sriracha,LPS+,Sample,0.45,3310,2.420,124.05,6.92,97.99
+20260128,1,BP012,H,2,10,FF0175,Fruit,Huy fong sriracha chili sauce,LPS+,Sample,0.39,11933,1.090,106.52,32.8,36.26
+20260128,1,BP012,H,3,10,FF0176,Fruit,Mani pitted castelvetrano olives,LPS+,Sample,0.42,17196,2.530,116.83,48.59,102.91
+20260128,1,BP012,H,4,10,FF0177,Fruit,Berkeley Bowl kalamata olives pitted,LPS+,Sample,0.53,21049,2.330,151.32,60.16,93.72
+20260128,1,BP012,H,5,10,FF0178,Vegetable - Cabbage,Golden State Pickle Works cabbage w/ caraway,LPS+,Sample,0.46,8341,2.880,127.17,22.02,119.06
+20260128,1,BP012,H,6,10,FF0179,Soy,Dragonfly preserved bean curd in chili oil,LPS+,Sample,0.42,4500,2.490,115.44,10.5,101.29
+20260128,1,BP012,H,7,10,FF0180,Soy,NY natto black,LPS+,Sample,0.44,6500,2.740,121.37,16.5,112.66
+20260128,1,BP012,H,8,10,FF0181,Soy,Lightlife organic tempeh original,LPS+,Sample,0.04,540,0.130,0.27,-1.39,-8.03
+20260128,1,BP012,H,9,10,FF0183,Meat,Fra'mani salametto salame,LPS+,Sample,0.05,50,0.190,0.63,-2.86,-5.58
+20260128,1,BP012,H,10,10,FF0184,Meat,Journeyman meat co saucisson sec salame,LPS+,Sample,0.45,20879,3.160,125.91,59.65,132.03
+20260128,1,BP012,H,11,10,blank,NA,PBS,LPS+,blank,0.04,750,1.790,0.39,-0.76,68.78
+20260128,1,BP012,H,12,10,kill_control,NA,2.5% DMSO,LPS+,kill _control,0.17,620,0.300,38.93,-1.15,-0.29
+20260128,2,BP012,A,1,10,FF0036,Soy,Traditional Red Miso,LPS+,Sample,0.576,12121,2.705,145.076,36.235,136.37
+20260128,2,BP012,A,2,10,FF0086,vegetable,Fermented seaweed salad,LPS+,Sample,0.428,4668,2.553,104.811,11.494,128.053
+20260128,2,BP012,A,3,10,FF0140,Vegetable,Cultured Beets with fennel,LPS+,Sample,0.611,8499,2.806,154.398,24.211,141.916
+20260128,2,BP012,A,4,10,FF0141,Vegetable,local culture beet + fennel,LPS+,Sample,0.7,9600,2.991,178.625,27.866,152.048
+20260128,2,BP012,A,5,10,FF0142,Vegetable - Cabbage,Sinto Gourmet kraut-chi crunchy beet,LPS+,Sample,0.698,6188,3.132,177.922,16.54,159.793
+20260128,2,BP012,A,6,10,FF0143,Vegetable,wild west ferments moroccan beets,LPS+,Sample,0.661,8329,2.442,167.996,23.647,121.937
+20260128,2,BP012,A,7,10,FF0144,Vegetable - Cabbage,wildbrine red beet & cabbage,LPS+,Sample,0.751,7659,3.093,192.452,21.423,157.665
+20260128,2,BP012,A,8,10,FF0145,Vegetable - Cabbage,wild west ferments simply sauerkraut,LPS+,Sample,0.737,5088,2.581,188.52,12.888,129.556
+20260128,2,BP012,A,9,10,FF0172,grain,rejuvelac,LPS+,Sample,0.648,12941,2.907,164.551,38.957,147.478
+20260128,2,BP012,A,10,10,FF0173,sugar,GT's kombucha,LPS+,Sample,0.582,27915,1.982,146.588,88.664,96.709
+20260128,2,BP012,A,11,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.24,37560,2.105,53.932,120.681,103.489
+20260128,2,BP012,A,12,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.222,35827,2.122,49.173,114.928,104.416
+20260128,2,BP012,B,1,10,FF0036,Soy,Traditional Red Miso,LPS+,Sample,0.677,7789,2.509,172.226,21.854,125.651
+20260128,2,BP012,B,2,10,FF0086,vegetable,Fermented seaweed salad,LPS+,Sample,0.474,7309,2.356,117.269,20.261,117.247
+20260128,2,BP012,B,3,10,FF0140,Vegetable,Cultured Beets with fennel,LPS+,Sample,0.545,8609,2.431,136.639,24.576,121.377
+20260128,2,BP012,B,4,10,FF0141,Vegetable,local culture beet + fennel,LPS+,Sample,0.656,8619,2.678,166.55,24.61,134.894
+20260128,2,BP012,B,5,10,FF0142,Vegetable - Cabbage,Sinto Gourmet kraut-chi crunchy beet,LPS+,Sample,0.67,7039,2.827,170.309,19.365,143.068
+20260128,2,BP012,B,6,10,FF0143,Vegetable,wild west ferments moroccan beets,LPS+,Sample,0.616,7189,2.247,155.914,19.863,111.246
+20260128,2,BP012,B,7,10,FF0144,Vegetable - Cabbage,wildbrine red beet & cabbage,LPS+,Sample,0.671,7659,2.826,170.556,21.423,143.007
+20260128,2,BP012,B,8,10,FF0145,Vegetable - Cabbage,wild west ferments simply sauerkraut,LPS+,Sample,0.639,4538,2.248,161.945,11.062,111.306
+20260128,2,BP012,B,9,10,FF0172,grain,rejuvelac,LPS+,Sample,0.564,10550,2.752,141.836,31.02,138.964
+20260128,2,BP012,B,10,10,FF0173,sugar,GT's kombucha,LPS+,Sample,0.527,25442,1.898,131.806,80.454,92.139
+20260128,2,BP012,B,11,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.217,30989,2.031,47.885,98.868,99.386
+20260128,2,BP012,B,12,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.202,35236,1.909,43.682,112.966,92.71
+20260128,2,BP012,C,1,10,FF0036,Soy,Traditional Red Miso,LPS+,Sample,0.672,6488,2.491,170.827,17.536,124.619
+20260128,2,BP012,C,2,10,FF0086,vegetable,Fermented seaweed salad,LPS+,Sample,0.455,7139,2.249,112.289,19.697,111.388
+20260128,2,BP012,C,3,10,FF0140,Vegetable,Cultured Beets with fennel,LPS+,Sample,0.501,8759,2.352,124.599,25.074,117.044
+20260128,2,BP012,C,4,10,FF0141,Vegetable,local culture beet + fennel,LPS+,Sample,0.617,8479,2.622,156.123,24.145,131.806
+20260128,2,BP012,C,5,10,FF0142,Vegetable - Cabbage,Sinto Gourmet kraut-chi crunchy beet,LPS+,Sample,0.642,7809,2.679,162.757,21.921,134.938
+20260128,2,BP012,C,6,10,FF0143,Vegetable,wild west ferments moroccan beets,LPS+,Sample,0.614,9480,2.174,155.175,27.468,107.23
+20260128,2,BP012,C,7,10,FF0144,Vegetable - Cabbage,wildbrine red beet & cabbage,LPS+,Sample,0.678,9470,2.807,172.563,27.434,141.998
+20260128,2,BP012,C,8,10,FF0145,Vegetable - Cabbage,wild west ferments simply sauerkraut,LPS+,Sample,0.654,4538,2.196,166.071,11.062,108.464
+20260128,2,BP012,C,9,10,FF0172,grain,rejuvelac,LPS+,Sample,0.573,11330,2.447,144.164,33.609,122.255
+20260128,2,BP012,C,10,10,FF0173,sugar,GT's kombucha,LPS+,Sample,0.55,25813,1.950,137.83,81.686,94.975
+20260128,2,BP012,C,11,10,positive_control,NA,PBS,LPS+,positive_control,0.43,29778,1.856,105.402,94.848,89.824
+20260128,2,BP012,C,12,10,positive_control,NA,PBS,LPS+,positive_control,0.395,31911,1.717,95.991,101.929,82.21
+20260128,2,BP012,D,1,10,FF0036,Soy,Traditional Red Miso,LPS+,Sample,0.644,5388,2.505,163.337,13.884,125.393
+20260128,2,BP012,D,2,10,FF0086,vegetable,Fermented seaweed salad,LPS+,Sample,0.413,7859,2.063,100.875,22.087,101.174
+20260128,2,BP012,D,3,10,FF0140,Vegetable,Cultured Beets with fennel,LPS+,Sample,0.464,8719,2.328,114.775,24.941,115.683
+20260128,2,BP012,D,4,10,FF0141,Vegetable,local culture beet + fennel,LPS+,Sample,0.562,9350,2.577,141.186,27.036,129.37
+20260128,2,BP012,D,5,10,FF0142,Vegetable - Cabbage,Sinto Gourmet kraut-chi crunchy beet,LPS+,Sample,0.598,6538,2.800,150.818,17.702,141.619
+20260128,2,BP012,D,6,10,FF0143,Vegetable,wild west ferments moroccan beets,LPS+,Sample,0.581,9800,2.202,146.209,28.53,108.782
+20260128,2,BP012,D,7,10,FF0144,Vegetable - Cabbage,wildbrine red beet & cabbage,LPS+,Sample,0.667,10130,2.807,169.574,29.625,141.954
+20260128,2,BP012,D,8,10,FF0145,Vegetable - Cabbage,wild west ferments simply sauerkraut,LPS+,Sample,0.643,4858,2.393,163.055,12.125,119.287
+20260128,2,BP012,D,9,10,FF0172,grain,rejuvelac,LPS+,Sample,0.552,11541,2.730,138.476,34.309,137.763
+20260128,2,BP012,D,10,10,FF0173,sugar,GT's kombucha,LPS+,Sample,0.515,26664,1.877,128.466,84.511,90.976
+20260128,2,BP012,D,11,10,positive_control,NA,PBS,LPS+,positive_control,0.431,29467,1.905,105.65,93.816,92.49
+20260128,2,BP012,D,12,10,positive_control,NA,PBS,LPS+,positive_control,0.384,34164,1.813,92.956,109.408,87.449
+20260128,2,BP012,E,1,10,FF0174,Fruit,Wildbrine probiotic sriracha,LPS+,Sample,0.59,5688,2.205,148.877,14.88,108.936
+20260128,2,BP012,E,2,10,FF0175,Fruit,Huy fong sriracha chili sauce,LPS+,Sample,0.502,19456,1.512,124.851,60.584,70.959
+20260128,2,BP012,E,3,10,FF0176,Fruit,Mani pitted castelvetrano olives,LPS+,Sample,0.431,16764,2.106,105.863,51.647,103.538
+20260128,2,BP012,E,4,10,FF0177,Fruit,Berkeley Bowl kalamata olives pitted,LPS+,Sample,0.556,27645,1.944,139.679,87.767,94.646
+20260128,2,BP012,E,5,10,FF0178,Vegetable - Cabbage,Golden State Pickle Works cabbage w/ caraway,LPS+,Sample,0.498,8119,2.253,123.896,22.95,111.608
+20260128,2,BP012,E,6,10,FF0179,Soy,Dragonfly preserved bean curd in chili oil,LPS+,Sample,0.475,7989,2.117,117.675,22.518,104.142
+20260128,2,BP012,E,7,10,FF0180,Soy,NY natto black,LPS+,Sample,0.513,9069,2.214,127.952,26.103,109.474
+20260128,2,BP012,E,8,10,FF0181,Soy,Lightlife organic tempeh original,LPS+,Sample,0.522,21818,2.181,130.337,68.424,107.636
+20260128,2,BP012,E,9,10,FF0183,Meat,Fra'mani salametto salame,LPS+,Sample,0.541,39042,2.273,135.429,125.6,112.683
+20260128,2,BP012,E,10,10,FF0184,Meat,Journeyman meat co saucisson sec salame,LPS+,Sample,0.524,35086,2.349,131.022,112.468,116.852
+20260128,2,BP012,E,11,10,negative_control,NA,PBS,LPS-,negative_control,0.042,1298,1.515,0.397,0.307,71.118
+20260128,2,BP012,E,12,10,negative_control,NA,PBS,LPS-,negative_control,0.039,1218,1.481,-0.461,0.041,69.264
+20260128,2,BP012,F,1,10,FF0174,Fruit,Wildbrine probiotic sriracha,LPS+,Sample,0.575,4588,2.118,144.651,11.228,104.164
+20260128,2,BP012,F,2,10,FF0175,Fruit,Huy fong sriracha chili sauce,LPS+,Sample,0.53,24962,1.653,132.518,78.861,78.661
+20260128,2,BP012,F,3,10,FF0176,Fruit,Mani pitted castelvetrano olives,LPS+,Sample,0.425,21288,1.953,104.208,66.665,95.129
+20260128,2,BP012,F,4,10,FF0177,Fruit,Berkeley Bowl kalamata olives pitted,LPS+,Sample,0.551,26994,1.914,138.078,85.606,93.006
+20260128,2,BP012,F,5,10,FF0178,Vegetable - Cabbage,Golden State Pickle Works cabbage w/ caraway,LPS+,Sample,0.472,7109,2.220,116.851,19.597,109.781
+20260128,2,BP012,F,6,10,FF0179,Soy,Dragonfly preserved bean curd in chili oil,LPS+,Sample,0.463,11130,2.132,114.404,32.945,104.959
+20260128,2,BP012,F,7,10,FF0180,Soy,NY natto black,LPS+,Sample,0.495,6769,2.223,123.026,18.468,109.934
+20260128,2,BP012,F,8,10,FF0181,Soy,Lightlife organic tempeh original,LPS+,Sample,0.516,25653,2.223,128.852,81.155,109.956
+20260128,2,BP012,F,9,10,FF0183,Meat,Fra'mani salametto salame,LPS+,Sample,0.532,38211,2.274,133.094,122.842,112.732
+20260128,2,BP012,F,10,10,FF0184,Meat,Journeyman meat co saucisson sec salame,LPS+,Sample,0.471,35687,2.289,116.534,114.463,113.555
+20260128,2,BP012,F,11,10,negative_control,NA,PBS,LPS-,negative_control,0.041,1108,1.513,0.057,-0.324,71.009
+20260128,2,BP012,F,12,10,negative_control,NA,PBS,LPS-,negative_control,0.04,1198,1.512,0.007,-0.025,70.915
+20260128,2,BP012,G,1,10,FF0174,Fruit,Wildbrine probiotic sriracha,LPS+,Sample,0.575,3998,1.932,144.635,9.27,93.988
+20260128,2,BP012,G,2,10,FF0175,Fruit,Huy fong sriracha chili sauce,LPS+,Sample,0.526,18485,1.561,131.346,57.36,73.625
+20260128,2,BP012,G,3,10,FF0176,Fruit,Mani pitted castelvetrano olives,LPS+,Sample,0.48,19236,2.089,118.916,59.853,102.573
+20260128,2,BP012,G,4,10,FF0177,Fruit,Berkeley Bowl kalamata olives pitted,LPS+,Sample,0.537,22499,1.898,134.447,70.685,92.128
+20260128,2,BP012,G,5,10,FF0178,Vegetable - Cabbage,Golden State Pickle Works cabbage w/ caraway,LPS+,Sample,0.472,7429,2.250,116.866,20.659,111.41
+20260128,2,BP012,G,6,10,FF0179,Soy,Dragonfly preserved bean curd in chili oil,LPS+,Sample,0.44,8479,2.099,108.043,24.145,103.132
+20260128,2,BP012,G,7,10,FF0180,Soy,NY natto black,LPS+,Sample,0.481,7719,2.304,119.213,21.622,114.383
+20260128,2,BP012,G,8,10,FF0181,Soy,Lightlife organic tempeh original,LPS+,Sample,0.497,18966,2.238,123.559,58.957,110.785
+20260128,2,BP012,G,9,10,FF0183,Meat,Fra'mani salametto salame,LPS+,Sample,0.535,37119,2.214,133.902,119.217,109.457
+20260128,2,BP012,G,10,10,FF0184,Meat,Journeyman meat co saucisson sec salame,LPS+,Sample,0.507,29397,2.391,126.289,93.583,119.139
+20260128,2,BP012,G,11,10,blank,NA,PBS,LPS+,blank,0.036,1028,1.514,-1.115,-0.589,71.063
+20260128,2,BP012,G,12,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.214,448,0.220,46.872,-2.515,0.063
+20260128,2,BP012,H,1,10,FF0174,Fruit,Wildbrine probiotic sriracha,LPS+,Sample,0.422,4758,2.032,103.191,11.793,99.473
+20260128,2,BP012,H,2,10,FF0175,Fruit,Huy fong sriracha chili sauce,LPS+,Sample,0.506,13352,1.601,126.045,40.321,75.819
+20260128,2,BP012,H,3,10,FF0176,Fruit,Mani pitted castelvetrano olives,LPS+,Sample,0.416,7879,2.144,101.567,22.153,105.606
+20260128,2,BP012,H,4,10,FF0177,Fruit,Berkeley Bowl kalamata olives pitted,LPS+,Sample,0.523,20587,1.933,130.65,64.338,94.043
+20260128,2,BP012,H,5,10,FF0178,Vegetable - Cabbage,Golden State Pickle Works cabbage w/ caraway,LPS+,Sample,0.468,11330,1.999,115.846,33.609,97.68
+20260128,2,BP012,H,6,10,FF0179,Soy,Dragonfly preserved bean curd in chili oil,LPS+,Sample,0.331,2018,1.559,78.77,2.697,73.526
+20260128,2,BP012,H,7,10,FF0180,Soy,NY natto black,LPS+,Sample,0.511,5038,2.350,127.31,12.722,116.923
+20260128,2,BP012,H,8,10,FF0181,Soy,Lightlife organic tempeh original,LPS+,Sample,0.521,16344,2.268,129.966,50.253,112.425
+20260128,2,BP012,H,9,10,FF0183,Meat,Fra'mani salametto salame,LPS+,Sample,0.556,27325,2.326,139.617,86.705,115.579
+20260128,2,BP012,H,10,10,FF0184,Meat,Journeyman meat co saucisson sec salame,LPS+,Sample,0.508,36428,2.256,126.637,116.923,111.778
+20260128,2,BP012,H,11,10,blank,NA,PBS,LPS+,blank,0.044,1108,1.483,1,-0.324,69.341
+20260128,2,BP012,H,12,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.187,438,0.218,39.711,-2.548,-0.063
+20260204,1,BP013,A,1,10,FF0187,Fruit,Equal Exchange 92% cacao total eclipse chocolate,LPS+,Sample,0.571,26738,2.698,112.254,88.87,108.946
+20260204,1,BP013,A,2,10,FF0188,Fruit,Taza 95% dark chocolate wicked dark chocolate,LPS+,Sample,0.553,28551,2.614,108.521,95.104,105.066
+20260204,1,BP013,A,3,10,FF0190,Fruit,Alter Eco total blackout 100% cacao chocolate,LPS+,Sample,0.547,29031,2.579,107.152,96.754,103.449
+20260204,1,BP013,A,4,10,FF0191,Vegetable,The Tao of Tea organic Topaz puer,LPS+,Sample,0.452,4883,2.760,86.994,13.727,111.789
+20260204,1,BP013,A,5,10,FF0192,fruit,Braggs apple cider vinegar,LPS+,Sample,0.633,4263,2.480,125.513,11.596,98.883
+20260204,1,BP013,A,6,10,FF0198,grain,Cafe Colucci injera batter,LPS+,Sample,0.468,7794,2.394,90.394,23.736,94.947
+20260204,1,BP013,A,7,10,FF0199,Grain,Cafe Colucci injera cooked,LPS+,Sample,0.515,11485,2.195,100.499,36.427,85.778
+20260204,1,BP013,A,8,10,FF0200,Vegetable,Wise Goat honey fermented garlic,LPS+,Sample,0.528,9905,2.865,103.094,30.994,116.651
+20260204,1,BP013,A,9,10,FF0201,Fruit,Cultured Pickle Indian pickled limes,LPS+,Sample,0.587,10985,1.935,115.624,34.707,73.77
+20260204,1,BP013,A,10,10,FF0202,Fruit,Cultured Pickle Chile paste,LPS+,Sample,0.577,13507,2.338,113.663,43.379,92.335
+20260204,1,BP013,A,11,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.251,37784,2.501,44.354,126.849,99.859
+20260204,1,BP013,A,12,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.267,42182,2.547,47.799,141.971,101.998
+20260204,1,BP013,B,1,10,FF0187,Fruit,Equal Exchange 92% cacao total eclipse chocolate,LPS+,Sample,0.563,19781,2.618,110.658,64.95,105.251
+20260204,1,BP013,B,2,10,FF0188,Fruit,Taza 95% dark chocolate wicked dark chocolate,LPS+,Sample,0.57,27740,2.493,112.157,92.315,99.486
+20260204,1,BP013,B,3,10,FF0190,Fruit,Alter Eco total blackout 100% cacao chocolate,LPS+,Sample,0.576,31304,2.374,113.402,104.569,94.003
+20260204,1,BP013,B,4,10,FF0191,Vegetable,The Tao of Tea organic Topaz puer,LPS+,Sample,0.529,3623,2.749,103.437,9.395,111.282
+20260204,1,BP013,B,5,10,FF0192,fruit,Braggs apple cider vinegar,LPS+,Sample,0.657,6213,2.499,130.642,18.3,99.772
+20260204,1,BP013,B,6,10,FF0198,grain,Cafe Colucci injera batter,LPS+,Sample,0.564,9645,2.467,110.773,30.1,98.316
+20260204,1,BP013,B,7,10,FF0199,Grain,Cafe Colucci injera cooked,LPS+,Sample,0.519,9204,2.107,101.218,28.584,81.7
+20260204,1,BP013,B,8,10,FF0200,Vegetable,Wise Goat honey fermented garlic,LPS+,Sample,0.593,9785,2.771,116.977,30.582,112.324
+20260204,1,BP013,B,9,10,FF0201,Fruit,Cultured Pickle Indian pickled limes,LPS+,Sample,0.64,11706,1.950,127.045,37.186,74.47
+20260204,1,BP013,B,10,10,FF0202,Fruit,Cultured Pickle Chile paste,LPS+,Sample,0.631,17509,2.271,125.136,57.139,89.252
+20260204,1,BP013,B,11,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.275,34359,2.507,49.338,115.073,100.141
+20260204,1,BP013,B,12,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.268,37975,2.461,47.939,127.506,98.002
+20260204,1,BP013,C,1,10,FF0187,Fruit,Equal Exchange 92% cacao total eclipse chocolate,LPS+,Sample,0.547,29392,2.295,107.191,97.995,90.363
+20260204,1,BP013,C,2,10,FF0188,Fruit,Taza 95% dark chocolate wicked dark chocolate,LPS+,Sample,0.541,26708,2.372,105.911,88.767,93.925
+20260204,1,BP013,C,3,10,FF0190,Fruit,Alter Eco total blackout 100% cacao chocolate,LPS+,Sample,0.562,24886,2.391,110.36,82.503,94.809
+20260204,1,BP013,C,4,10,FF0191,Vegetable,The Tao of Tea organic Topaz puer,LPS+,Sample,0.481,5413,2.570,93.168,15.55,103.062
+20260204,1,BP013,C,5,10,FF0192,fruit,Braggs apple cider vinegar,LPS+,Sample,0.64,8794,2.474,126.957,27.174,98.634
+20260204,1,BP013,C,6,10,FF0198,grain,Cafe Colucci injera batter,LPS+,Sample,0.57,15538,2.260,112.115,50.362,88.75
+20260204,1,BP013,C,7,10,FF0199,Grain,Cafe Colucci injera cooked,LPS+,Sample,0.517,10175,2.057,100.82,31.923,79.391
+20260204,1,BP013,C,8,10,FF0200,Vegetable,Wise Goat honey fermented garlic,LPS+,Sample,0.608,9274,2.722,120.125,28.825,110.052
+20260204,1,BP013,C,9,10,FF0201,Fruit,Cultured Pickle Indian pickled limes,LPS+,Sample,0.644,8964,1.600,127.904,27.759,58.352
+20260204,1,BP013,C,10,10,FF0202,Fruit,Cultured Pickle Chile paste,LPS+,Sample,0.607,14077,2.172,119.943,45.339,84.681
+20260204,1,BP013,C,11,10,positive_control,NA,PBS,LPS+,positive_control,0.516,29832,2.204,100.562,99.508,86.193
+20260204,1,BP013,C,12,10,positive_control,NA,PBS,LPS+,positive_control,0.491,32857,2.127,95.39,109.909,82.617
+20260204,1,BP013,D,1,10,FF0187,Fruit,Equal Exchange 92% cacao total eclipse chocolate,LPS+,Sample,0.59,24216,2.609,116.37,80.199,104.831
+20260204,1,BP013,D,2,10,FF0188,Fruit,Taza 95% dark chocolate wicked dark chocolate,LPS+,Sample,0.571,26668,2.527,112.3,88.63,101.071
+20260204,1,BP013,D,3,10,FF0190,Fruit,Alter Eco total blackout 100% cacao chocolate,LPS+,Sample,0.564,31615,2.349,110.885,105.639,92.874
+20260204,1,BP013,D,4,10,FF0191,Vegetable,The Tao of Tea organic Topaz puer,LPS+,Sample,0.52,7114,2.664,101.531,21.398,107.389
+20260204,1,BP013,D,5,10,FF0192,fruit,Braggs apple cider vinegar,LPS+,Sample,0.64,14887,2.539,127.012,48.124,101.629
+20260204,1,BP013,D,6,10,FF0198,grain,Cafe Colucci injera batter,LPS+,Sample,0.569,11165,2.431,111.866,35.326,96.639
+20260204,1,BP013,D,7,10,FF0199,Grain,Cafe Colucci injera cooked,LPS+,Sample,0.566,12736,2.116,111.247,40.728,82.105
+20260204,1,BP013,D,8,10,FF0200,Vegetable,Wise Goat honey fermented garlic,LPS+,Sample,0.603,9024,2.814,119.038,27.965,114.287
+20260204,1,BP013,D,9,10,FF0201,Fruit,Cultured Pickle Indian pickled limes,LPS+,Sample,0.641,10385,2.602,127.243,32.645,104.504
+20260204,1,BP013,D,10,10,FF0202,Fruit,Cultured Pickle Chile paste,LPS+,Sample,0.642,12846,2.702,127.394,41.106,109.13
+20260204,1,BP013,D,11,10,positive_control,NA,PBS,LPS+,positive_control,0.526,28350,2.267,102.717,94.413,89.086
+20260204,1,BP013,D,12,10,positive_control,NA,PBS,LPS+,positive_control,0.519,28861,2.250,101.33,96.17,88.28
+20260204,1,BP013,E,1,10,FF0203,Fruit,Cultured Pickle umeboshi,LPS+,Sample,0.616,21553,1.610,121.916,71.043,58.826
+20260204,1,BP013,E,2,10,FF0204,Fruit,Wild West Ferments spicy Italian pickle,LPS+,Sample,0.621,16679,2.509,122.939,54.285,100.242
+20260204,1,BP013,E,3,10,FF0205,Fruit,Wild West Ferments preserved lemon,LPS+,Sample,0.685,23885,1.878,136.604,79.061,71.134
+20260204,1,BP013,E,4,10,FF0206,Fruit,Wild West Ferments Chili paste,LPS+,Sample,0.645,12996,2.762,128.008,41.622,111.877
+20260204,1,BP013,E,5,10,FF0209,Vegetable,Taro brand sour poi,LPS+,Sample,0.617,27239,2.303,122.007,90.593,90.727
+20260204,1,BP013,E,6,10,FF0210,Fruit,Cultured spicy okra,LPS+,Sample,0.665,18770,2.638,132.272,61.474,106.154
+20260204,1,BP013,E,7,10,FF0211,Grain,Kopabana cassava fufu,LPS+,Sample,0.538,18190,2.600,105.306,59.48,104.435
+20260204,1,BP013,E,8,10,FF0212,Grain,Kopabana cassava couscous / attieke,LPS+,Sample,0.586,19561,2.775,115.496,64.194,112.467
+20260204,1,BP013,E,9,10,FF0213,Grain,Wala ga kenkey,LPS+,Sample,0.638,13927,3.197,126.617,44.823,131.926
+20260204,1,BP013,E,10,10,FF0216,Meat - Fish,Barrio fiesta bagoong hipon,LPS+,Sample,0.655,8834,3.072,130.138,27.312,126.193
+20260204,1,BP013,E,11,10,negative_control,NA,PBS,LPS-,negative_control,0.043,863,1.773,0.063,-0.095,66.328
+20260204,1,BP013,E,12,10,negative_control,NA,PBS,LPS-,negative_control,0.042,953,1.919,-0.098,0.215,73.037
+20260204,1,BP013,F,1,10,FF0203,Fruit,Cultured Pickle umeboshi,LPS+,Sample,0.42,5623,0.977,80.126,16.272,29.626
+20260204,1,BP013,F,2,10,FF0204,Fruit,Wild West Ferments spicy Italian pickle,LPS+,Sample,0.63,18720,2.456,124.893,61.302,97.781
+20260204,1,BP013,F,3,10,FF0205,Fruit,Wild West Ferments preserved lemon,LPS+,Sample,0.666,20802,1.934,132.551,68.461,73.742
+20260204,1,BP013,F,4,10,FF0206,Fruit,Wild West Ferments Chili paste,LPS+,Sample,0.647,9094,2.761,128.442,28.206,111.826
+20260204,1,BP013,F,5,10,FF0209,Vegetable,Taro brand sour poi,LPS+,Sample,0.603,25847,2.249,119.129,85.807,88.248
+20260204,1,BP013,F,6,10,FF0210,Fruit,Cultured spicy okra,LPS+,Sample,0.633,16849,2.466,125.573,54.869,98.237
+20260204,1,BP013,F,7,10,FF0211,Grain,Kopabana cassava fufu,LPS+,Sample,0.559,23375,2.408,109.841,77.308,95.565
+20260204,1,BP013,F,8,10,FF0212,Grain,Kopabana cassava couscous / attieke,LPS+,Sample,0.573,17830,2.782,112.761,58.242,112.794
+20260204,1,BP013,F,9,10,FF0213,Grain,Wala ga kenkey,LPS+,Sample,0.622,12156,3.249,123.081,38.734,134.345
+20260204,1,BP013,F,10,10,FF0216,Meat - Fish,Barrio fiesta bagoong hipon,LPS+,Sample,0.607,15178,2.797,119.888,49.124,113.485
+20260204,1,BP013,F,11,10,negative_control,NA,PBS,LPS-,negative_control,0.043,733,1.755,0.178,-0.542,65.476
+20260204,1,BP013,F,12,10,negative_control,NA,PBS,LPS-,negative_control,0.042,1013,1.747,-0.143,0.421,65.116
+20260204,1,BP013,G,1,10,FF0203,Fruit,Cultured Pickle umeboshi,LPS+,Sample,0.606,23515,1.714,119.645,77.789,63.577
+20260204,1,BP013,G,2,10,FF0204,Fruit,Wild West Ferments spicy Italian pickle,LPS+,Sample,0.649,18160,2.375,128.967,59.377,94.072
+20260204,1,BP013,G,3,10,FF0205,Fruit,Wild West Ferments preserved lemon,LPS+,Sample,0.671,26618,1.928,133.538,88.458,73.438
+20260204,1,BP013,G,4,10,FF0206,Fruit,Wild West Ferments Chili paste,LPS+,Sample,0.632,11355,2.626,125.324,35.98,105.61
+20260204,1,BP013,G,5,10,FF0209,Vegetable,Taro brand sour poi,LPS+,Sample,0.618,22123,2.224,122.389,73.003,87.096
+20260204,1,BP013,G,6,10,FF0210,Fruit,Cultured spicy okra,LPS+,Sample,0.651,13947,2.558,129.258,44.892,102.481
+20260204,1,BP013,G,7,10,FF0211,Grain,Kopabana cassava fufu,LPS+,Sample,0.562,22264,2.454,110.445,73.488,97.694
+20260204,1,BP013,G,8,10,FF0212,Grain,Kopabana cassava couscous / attieke,LPS+,Sample,0.592,19851,2.696,116.683,65.191,108.831
+20260204,1,BP013,G,9,10,FF0213,Grain,Wala ga kenkey,LPS+,Sample,0.638,11636,3.254,126.545,36.946,134.571
+20260204,1,BP013,G,10,10,FF0216,Meat - Fish,Barrio fiesta bagoong hipon,LPS+,Sample,0.662,9585,2.978,131.641,29.894,121.834
+20260204,1,BP013,G,11,10,blank,NA,PBS,LPS-,blank,0.038,863,1.763,-0.872,-0.095,65.853
+20260204,1,BP013,G,12,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.261,313,0.332,46.412,-1.986,-0.104
+20260204,1,BP013,H,1,10,FF0203,Fruit,Cultured Pickle umeboshi,LPS+,Sample,0.609,26638,1.707,120.447,88.527,63.273
+20260204,1,BP013,H,2,10,FF0204,Fruit,Wild West Ferments spicy Italian pickle,LPS+,Sample,0.606,20472,2.569,119.852,67.326,102.993
+20260204,1,BP013,H,3,10,FF0205,Fruit,Wild West Ferments preserved lemon,LPS+,Sample,0.643,30543,1.965,127.662,101.953,75.147
+20260204,1,BP013,H,4,10,FF0206,Fruit,Wild West Ferments Chili paste,LPS+,Sample,0.621,8374,2.794,122.951,25.73,113.37
+20260204,1,BP013,H,5,10,FF0209,Vegetable,Taro brand sour poi,LPS+,Sample,0.601,27590,2.185,118.786,91.8,85.285
+20260204,1,BP013,H,6,10,FF0210,Fruit,Cultured spicy okra,LPS+,Sample,0.643,16639,2.465,127.649,54.147,98.214
+20260204,1,BP013,H,7,10,FF0211,Grain,Kopabana cassava fufu,LPS+,Sample,0.55,23455,2.418,107.899,77.583,96.03
+20260204,1,BP013,H,8,10,FF0212,Grain,Kopabana cassava couscous / attieke,LPS+,Sample,0.547,28040,2.338,107.24,93.347,92.339
+20260204,1,BP013,H,9,10,FF0213,Grain,Wala ga kenkey,LPS+,Sample,0.612,17679,3.044,120.935,57.723,124.894
+20260204,1,BP013,H,10,10,FF0216,Meat - Fish,Barrio fiesta bagoong hipon,LPS+,Sample,0.658,4903,3.108,130.894,13.796,127.852
+20260204,1,BP013,H,11,10,blank,NA,PBS,LPS-,blank,0.046,763,1.746,0.785,-0.438,65.07
+20260204,1,BP013,H,12,10,kill_control,NA,2.5% DMSO,LPS+,kill _control,0.255,393,0.336,45.192,-1.711,0.104
+20260206,2,BP013,A,1,10,FF0187,Fruit,Equal Exchange 92% cacao total eclipse chocolate,LPS+,Sample,0.571,26738,2.698,112.254,88.87,108.946
+20260206,2,BP013,A,2,10,FF0188,Fruit,Taza 95% dark chocolate wicked dark chocolate,LPS+,Sample,0.553,28551,2.614,108.521,95.104,105.066
+20260206,2,BP013,A,3,10,FF0190,Fruit,Alter Eco total blackout 100% cacao chocolate,LPS+,Sample,0.547,29031,2.579,107.152,96.754,103.449
+20260206,2,BP013,A,4,10,FF0191,Vegetable,The Tao of Tea organic Topaz puer,LPS+,Sample,0.452,4883,2.760,86.994,13.727,111.789
+20260206,2,BP013,A,5,10,FF0192,fruit,Braggs apple cider vinegar,LPS+,Sample,0.633,4263,2.480,125.513,11.596,98.883
+20260206,2,BP013,A,6,10,FF0198,grain,Cafe Colucci injera batter,LPS+,Sample,0.468,7794,2.394,90.394,23.736,94.947
+20260206,2,BP013,A,7,10,FF0199,Grain,Cafe Colucci injera cooked,LPS+,Sample,0.515,11485,2.195,100.499,36.427,85.778
+20260206,2,BP013,A,8,10,FF0200,Vegetable,Wise Goat honey fermented garlic,LPS+,Sample,0.528,9905,2.865,103.094,30.994,116.651
+20260206,2,BP013,A,9,10,FF0201,Fruit,Cultured Pickle Indian pickled limes,LPS+,Sample,0.587,10985,1.935,115.624,34.707,73.77
+20260206,2,BP013,A,10,10,FF0202,Fruit,Cultured Pickle Chile paste,LPS+,Sample,0.577,13507,2.338,113.663,43.379,92.335
+20260206,2,BP013,A,11,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.251,37784,2.501,44.354,126.849,99.859
+20260206,2,BP013,A,12,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.267,42182,2.547,47.799,141.971,101.998
+20260206,2,BP013,B,1,10,FF0187,Fruit,Equal Exchange 92% cacao total eclipse chocolate,LPS+,Sample,0.563,19781,2.618,110.658,64.95,105.251
+20260206,2,BP013,B,2,10,FF0188,Fruit,Taza 95% dark chocolate wicked dark chocolate,LPS+,Sample,0.57,27740,2.493,112.157,92.315,99.486
+20260206,2,BP013,B,3,10,FF0190,Fruit,Alter Eco total blackout 100% cacao chocolate,LPS+,Sample,0.576,31304,2.374,113.402,104.569,94.003
+20260206,2,BP013,B,4,10,FF0191,Vegetable,The Tao of Tea organic Topaz puer,LPS+,Sample,0.529,3623,2.749,103.437,9.395,111.282
+20260206,2,BP013,B,5,10,FF0192,fruit,Braggs apple cider vinegar,LPS+,Sample,0.657,6213,2.499,130.642,18.3,99.772
+20260206,2,BP013,B,6,10,FF0198,grain,Cafe Colucci injera batter,LPS+,Sample,0.564,9645,2.467,110.773,30.1,98.316
+20260206,2,BP013,B,7,10,FF0199,Grain,Cafe Colucci injera cooked,LPS+,Sample,0.519,9204,2.107,101.218,28.584,81.7
+20260206,2,BP013,B,8,10,FF0200,Vegetable,Wise Goat honey fermented garlic,LPS+,Sample,0.593,9785,2.771,116.977,30.582,112.324
+20260206,2,BP013,B,9,10,FF0201,Fruit,Cultured Pickle Indian pickled limes,LPS+,Sample,0.64,11706,1.950,127.045,37.186,74.47
+20260206,2,BP013,B,10,10,FF0202,Fruit,Cultured Pickle Chile paste,LPS+,Sample,0.631,17509,2.271,125.136,57.139,89.252
+20260206,2,BP013,B,11,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.275,34359,2.507,49.338,115.073,100.141
+20260206,2,BP013,B,12,10,inhibitor1,NA,60uM PDTC,LPS+,inhibitor,0.268,37975,2.461,47.939,127.506,98.002
+20260206,2,BP013,C,1,10,FF0187,Fruit,Equal Exchange 92% cacao total eclipse chocolate,LPS+,Sample,0.547,29392,2.295,107.191,97.995,90.363
+20260206,2,BP013,C,2,10,FF0188,Fruit,Taza 95% dark chocolate wicked dark chocolate,LPS+,Sample,0.541,26708,2.372,105.911,88.767,93.925
+20260206,2,BP013,C,3,10,FF0190,Fruit,Alter Eco total blackout 100% cacao chocolate,LPS+,Sample,0.562,24886,2.391,110.36,82.503,94.809
+20260206,2,BP013,C,4,10,FF0191,Vegetable,The Tao of Tea organic Topaz puer,LPS+,Sample,0.481,5413,2.570,93.168,15.55,103.062
+20260206,2,BP013,C,5,10,FF0192,fruit,Braggs apple cider vinegar,LPS+,Sample,0.64,8794,2.474,126.957,27.174,98.634
+20260206,2,BP013,C,6,10,FF0198,grain,Cafe Colucci injera batter,LPS+,Sample,0.57,15538,2.260,112.115,50.362,88.75
+20260206,2,BP013,C,7,10,FF0199,Grain,Cafe Colucci injera cooked,LPS+,Sample,0.517,10175,2.057,100.82,31.923,79.391
+20260206,2,BP013,C,8,10,FF0200,Vegetable,Wise Goat honey fermented garlic,LPS+,Sample,0.608,9274,2.722,120.125,28.825,110.052
+20260206,2,BP013,C,9,10,FF0201,Fruit,Cultured Pickle Indian pickled limes,LPS+,Sample,0.644,8964,1.600,127.904,27.759,58.352
+20260206,2,BP013,C,10,10,FF0202,Fruit,Cultured Pickle Chile paste,LPS+,Sample,0.607,14077,2.172,119.943,45.339,84.681
+20260206,2,BP013,C,11,10,positive_control,NA,PBS,LPS+,positive_control,0.516,29832,2.204,100.562,99.508,86.193
+20260206,2,BP013,C,12,10,positive_control,NA,PBS,LPS+,positive_control,0.491,32857,2.127,95.39,109.909,82.617
+20260206,2,BP013,D,1,10,FF0187,Fruit,Equal Exchange 92% cacao total eclipse chocolate,LPS+,Sample,0.59,24216,2.609,116.37,80.199,104.831
+20260206,2,BP013,D,2,10,FF0188,Fruit,Taza 95% dark chocolate wicked dark chocolate,LPS+,Sample,0.571,26668,2.527,112.3,88.63,101.071
+20260206,2,BP013,D,3,10,FF0190,Fruit,Alter Eco total blackout 100% cacao chocolate,LPS+,Sample,0.564,31615,2.349,110.885,105.639,92.874
+20260206,2,BP013,D,4,10,FF0191,Vegetable,The Tao of Tea organic Topaz puer,LPS+,Sample,0.52,7114,2.664,101.531,21.398,107.389
+20260206,2,BP013,D,5,10,FF0192,fruit,Braggs apple cider vinegar,LPS+,Sample,0.64,14887,2.539,127.012,48.124,101.629
+20260206,2,BP013,D,6,10,FF0198,grain,Cafe Colucci injera batter,LPS+,Sample,0.569,11165,2.431,111.866,35.326,96.639
+20260206,2,BP013,D,7,10,FF0199,Grain,Cafe Colucci injera cooked,LPS+,Sample,0.566,12736,2.116,111.247,40.728,82.105
+20260206,2,BP013,D,8,10,FF0200,Vegetable,Wise Goat honey fermented garlic,LPS+,Sample,0.603,9024,2.814,119.038,27.965,114.287
+20260206,2,BP013,D,9,10,FF0201,Fruit,Cultured Pickle Indian pickled limes,LPS+,Sample,0.641,10385,2.602,127.243,32.645,104.504
+20260206,2,BP013,D,10,10,FF0202,Fruit,Cultured Pickle Chile paste,LPS+,Sample,0.642,12846,2.702,127.394,41.106,109.13
+20260206,2,BP013,D,11,10,positive_control,NA,PBS,LPS+,positive_control,0.526,28350,2.267,102.717,94.413,89.086
+20260206,2,BP013,D,12,10,positive_control,NA,PBS,LPS+,positive_control,0.519,28861,2.250,101.33,96.17,88.28
+20260206,2,BP013,E,1,10,FF0203,Fruit,Cultured Pickle umeboshi,LPS+,Sample,0.616,21553,1.610,121.916,71.043,58.826
+20260206,2,BP013,E,2,10,FF0204,Fruit,Wild West Ferments spicy Italian pickle,LPS+,Sample,0.621,16679,2.509,122.939,54.285,100.242
+20260206,2,BP013,E,3,10,FF0205,Fruit,Wild West Ferments preserved lemon,LPS+,Sample,0.685,23885,1.878,136.604,79.061,71.134
+20260206,2,BP013,E,4,10,FF0206,Fruit,Wild West Ferments Chili paste,LPS+,Sample,0.645,12996,2.762,128.008,41.622,111.877
+20260206,2,BP013,E,5,10,FF0209,Vegetable,Taro brand sour poi,LPS+,Sample,0.617,27239,2.303,122.007,90.593,90.727
+20260206,2,BP013,E,6,10,FF0210,Fruit,Cultured spicy okra,LPS+,Sample,0.665,18770,2.638,132.272,61.474,106.154
+20260206,2,BP013,E,7,10,FF0211,Grain,Kopabana cassava fufu,LPS+,Sample,0.538,18190,2.600,105.306,59.48,104.435
+20260206,2,BP013,E,8,10,FF0212,Grain,Kopabana cassava couscous / attieke,LPS+,Sample,0.586,19561,2.775,115.496,64.194,112.467
+20260206,2,BP013,E,9,10,FF0213,Grain,Wala ga kenkey,LPS+,Sample,0.638,13927,3.197,126.617,44.823,131.926
+20260206,2,BP013,E,10,10,FF0216,Meat - Fish,Barrio fiesta bagoong hipon,LPS+,Sample,0.655,8834,3.072,130.138,27.312,126.193
+20260206,2,BP013,E,11,10,negative_control,NA,PBS,LPS-,negative_control,0.043,863,1.773,0.063,-0.095,66.328
+20260206,2,BP013,E,12,10,negative_control,NA,PBS,LPS-,negative_control,0.042,953,1.919,-0.098,0.215,73.037
+20260206,2,BP013,F,1,10,FF0203,Fruit,Cultured Pickle umeboshi,LPS+,Sample,0.42,5623,0.977,80.126,16.272,29.626
+20260206,2,BP013,F,2,10,FF0204,Fruit,Wild West Ferments spicy Italian pickle,LPS+,Sample,0.63,18720,2.456,124.893,61.302,97.781
+20260206,2,BP013,F,3,10,FF0205,Fruit,Wild West Ferments preserved lemon,LPS+,Sample,0.666,20802,1.934,132.551,68.461,73.742
+20260206,2,BP013,F,4,10,FF0206,Fruit,Wild West Ferments Chili paste,LPS+,Sample,0.647,9094,2.761,128.442,28.206,111.826
+20260206,2,BP013,F,5,10,FF0209,Vegetable,Taro brand sour poi,LPS+,Sample,0.603,25847,2.249,119.129,85.807,88.248
+20260206,2,BP013,F,6,10,FF0210,Fruit,Cultured spicy okra,LPS+,Sample,0.633,16849,2.466,125.573,54.869,98.237
+20260206,2,BP013,F,7,10,FF0211,Grain,Kopabana cassava fufu,LPS+,Sample,0.559,23375,2.408,109.841,77.308,95.565
+20260206,2,BP013,F,8,10,FF0212,Grain,Kopabana cassava couscous / attieke,LPS+,Sample,0.573,17830,2.782,112.761,58.242,112.794
+20260206,2,BP013,F,9,10,FF0213,Grain,Wala ga kenkey,LPS+,Sample,0.622,12156,3.249,123.081,38.734,134.345
+20260206,2,BP013,F,10,10,FF0216,Meat - Fish,Barrio fiesta bagoong hipon,LPS+,Sample,0.607,15178,2.797,119.888,49.124,113.485
+20260206,2,BP013,F,11,10,negative_control,NA,PBS,LPS-,negative_control,0.043,733,1.755,0.178,-0.542,65.476
+20260206,2,BP013,F,12,10,negative_control,NA,PBS,LPS-,negative_control,0.042,1013,1.747,-0.143,0.421,65.116
+20260206,2,BP013,G,1,10,FF0203,Fruit,Cultured Pickle umeboshi,LPS+,Sample,0.606,23515,1.714,119.645,77.789,63.577
+20260206,2,BP013,G,2,10,FF0204,Fruit,Wild West Ferments spicy Italian pickle,LPS+,Sample,0.649,18160,2.375,128.967,59.377,94.072
+20260206,2,BP013,G,3,10,FF0205,Fruit,Wild West Ferments preserved lemon,LPS+,Sample,0.671,26618,1.928,133.538,88.458,73.438
+20260206,2,BP013,G,4,10,FF0206,Fruit,Wild West Ferments Chili paste,LPS+,Sample,0.632,11355,2.626,125.324,35.98,105.61
+20260206,2,BP013,G,5,10,FF0209,Vegetable,Taro brand sour poi,LPS+,Sample,0.618,22123,2.224,122.389,73.003,87.096
+20260206,2,BP013,G,6,10,FF0210,Fruit,Cultured spicy okra,LPS+,Sample,0.651,13947,2.558,129.258,44.892,102.481
+20260206,2,BP013,G,7,10,FF0211,Grain,Kopabana cassava fufu,LPS+,Sample,0.562,22264,2.454,110.445,73.488,97.694
+20260206,2,BP013,G,8,10,FF0212,Grain,Kopabana cassava couscous / attieke,LPS+,Sample,0.592,19851,2.696,116.683,65.191,108.831
+20260206,2,BP013,G,9,10,FF0213,Grain,Wala ga kenkey,LPS+,Sample,0.638,11636,3.254,126.545,36.946,134.571
+20260206,2,BP013,G,10,10,FF0216,Meat - Fish,Barrio fiesta bagoong hipon,LPS+,Sample,0.662,9585,2.978,131.641,29.894,121.834
+20260206,2,BP013,G,11,10,blank,NA,PBS,LPS-,blank,0.038,863,1.763,-0.872,-0.095,65.853
+20260206,2,BP013,G,12,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.261,313,0.332,46.412,-1.986,-0.104
+20260206,2,BP013,H,1,10,FF0203,Fruit,Cultured Pickle umeboshi,LPS+,Sample,0.609,26638,1.707,120.447,88.527,63.273
+20260206,2,BP013,H,2,10,FF0204,Fruit,Wild West Ferments spicy Italian pickle,LPS+,Sample,0.606,20472,2.569,119.852,67.326,102.993
+20260206,2,BP013,H,3,10,FF0205,Fruit,Wild West Ferments preserved lemon,LPS+,Sample,0.643,30543,1.965,127.662,101.953,75.147
+20260206,2,BP013,H,4,10,FF0206,Fruit,Wild West Ferments Chili paste,LPS+,Sample,0.621,8374,2.794,122.951,25.73,113.37
+20260206,2,BP013,H,5,10,FF0209,Vegetable,Taro brand sour poi,LPS+,Sample,0.601,27590,2.185,118.786,91.8,85.285
+20260206,2,BP013,H,6,10,FF0210,Fruit,Cultured spicy okra,LPS+,Sample,0.643,16639,2.465,127.649,54.147,98.214
+20260206,2,BP013,H,7,10,FF0211,Grain,Kopabana cassava fufu,LPS+,Sample,0.55,23455,2.418,107.899,77.583,96.03
+20260206,2,BP013,H,8,10,FF0212,Grain,Kopabana cassava couscous / attieke,LPS+,Sample,0.547,28040,2.338,107.24,93.347,92.339
+20260206,2,BP013,H,9,10,FF0213,Grain,Wala ga kenkey,LPS+,Sample,0.612,17679,3.044,120.935,57.723,124.894
+20260206,2,BP013,H,10,10,FF0216,Meat - Fish,Barrio fiesta bagoong hipon,LPS+,Sample,0.658,4903,3.108,130.894,13.796,127.852
+20260206,2,BP013,H,11,10,blank,NA,PBS,LPS-,blank,0.046,763,1.746,0.785,-0.438,65.07
+20260206,2,BP013,H,12,10,kill_control,NA,2.5% DMSO,LPS+,kill _control,0.255,393,0.336,45.192,-1.711,0.104
+20260211,1,BP014,A,1,10,FF0218,Fruit,Burlap & Barrel white peppercorns,LPS+,Sample,0.063,3048,,4.947,30.622,
+20260211,1,BP014,A,2,10,FF0219,Legume,Burlap & Barrel Iru,LPS+,Sample,0.482,2098,,105.358,17.974,
+20260211,1,BP014,A,3,10,FF0220,Grain,Elizabeth Sourdough,LPS+,Sample,0.552,5288,,121.978,60.445,
+20260211,1,BP014,A,4,10,FF0221,Grain,Shastha Foods Idli/Idli batter,LPS+,Sample,0.536,4178,,118.131,45.666,
+20260211,1,BP014,A,5,10,FF0222,Grain,Grandios Yellow pap/ogi,LPS+,Sample,0.193,278,,36.071,-6.257,
+20260211,1,BP014,A,6,10,FF0223,Grain,Chantle Sourdough,LPS+,Sample,0.557,6478,,123.208,76.288,
+20260211,1,BP014,A,7,10,FF0224,Soy,CJ Doenjang,LPS+,Sample,0.447,388,,96.861,-4.793,
+20260211,1,BP014,A,8,10,FF0225,Grain,Rachel Sourdough,LPS+,Sample,0.157,808,,27.592,0.799,
+20260211,1,BP014,A,9,10,FF0227,fruit,Mango pickle,LPS+,Sample,0.257,598,,51.484,-1.997,
+20260211,1,BP014,A,10,10,FF0228,Dairy,Bayley Hazen Blue cheese,LPS+,Sample,0.043,338,,0.311,-5.459,
+20260211,1,BP014,A,11,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.443,4738,,95.928,53.122,
+20260211,1,BP014,A,12,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.447,3718,,96.933,39.542,
+20260211,1,BP014,B,1,10,FF0218,Fruit,Burlap & Barrel white peppercorns,LPS+,Sample,0.733,5318,,165.263,60.844,
+20260211,1,BP014,B,2,10,FF0219,Legume,Burlap & Barrel Iru,LPS+,Sample,0.491,2638,,107.477,25.163,
+20260211,1,BP014,B,3,10,FF0220,Grain,Elizabeth Sourdough,LPS+,Sample,0.598,5338,,133.089,61.11,
+20260211,1,BP014,B,4,10,FF0221,Grain,Shastha Foods Idli/Idli batter,LPS+,Sample,0.55,4618,,121.451,51.524,
+20260211,1,BP014,B,5,10,FF0222,Grain,Grandios Yellow pap/ogi,LPS+,Sample,0.147,108,,25.171,-8.521,
+20260211,1,BP014,B,6,10,FF0223,Grain,Chantle Sourdough,LPS+,Sample,0.552,4018,,122.121,43.536,
+20260211,1,BP014,B,7,10,FF0224,Soy,CJ Doenjang,LPS+,Sample,0.741,1688,,167.276,12.515,
+20260211,1,BP014,B,8,10,FF0225,Grain,Rachel Sourdough,LPS+,Sample,0.269,1598,,54.195,11.317,
+20260211,1,BP014,B,9,10,FF0227,fruit,Mango pickle,LPS+,Sample,0.428,1648,,92.239,11.982,
+20260211,1,BP014,B,10,10,FF0228,Dairy,Bayley Hazen Blue cheese,LPS+,Sample,0.048,328,,1.299,-5.592,
+20260211,1,BP014,B,11,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.463,3428,,100.739,35.681,
+20260211,1,BP014,B,12,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.495,3968,,108.366,42.87,
+20260211,1,BP014,C,1,10,FF0218,Fruit,Burlap & Barrel white peppercorns,LPS+,Sample,0.629,5508,,140.345,63.374,
+20260211,1,BP014,C,2,10,FF0219,Legume,Burlap & Barrel Iru,LPS+,Sample,0.54,1808,,119.171,14.113,
+20260211,1,BP014,C,3,10,FF0220,Grain,Elizabeth Sourdough,LPS+,Sample,0.614,7999,,136.967,96.538,
+20260211,1,BP014,C,4,10,FF0221,Grain,Shastha Foods Idli/Idli batter,LPS+,Sample,0.57,4428,,126.309,48.995,
+20260211,1,BP014,C,5,10,FF0222,Grain,Grandios Yellow pap/ogi,LPS+,Sample,0.426,1918,,91.839,15.577,
+20260211,1,BP014,C,6,10,FF0223,Grain,Chantle Sourdough,LPS+,Sample,0.585,6208,,129.872,72.693,
+20260211,1,BP014,C,7,10,FF0224,Soy,CJ Doenjang,LPS+,Sample,0.578,968,,128.31,2.929,
+20260211,1,BP014,C,8,10,FF0225,Grain,Rachel Sourdough,LPS+,Sample,0.22,1418,,42.635,8.92,
+20260211,1,BP014,C,9,10,FF0227,fruit,Mango pickle,LPS+,Sample,0.476,1508,,103.734,10.118,
+20260211,1,BP014,C,10,10,FF0228,Dairy,Bayley Hazen Blue cheese,LPS+,Sample,0.043,228,,0.297,-6.923,
+20260211,1,BP014,C,11,10,positive_control,NA,PBS,LPS+,positive_control,0.453,8629,,98.366,104.926,
+20260211,1,BP014,C,12,10,positive_control,NA,PBS,LPS+,positive_control,0.45,8639,,97.572,105.059,
+20260211,1,BP014,D,1,10,FF0218,Fruit,Burlap & Barrel white peppercorns,LPS+,Sample,0.682,5748,,153.074,66.569,
+20260211,1,BP014,D,2,10,FF0219,Legume,Burlap & Barrel Iru,LPS+,Sample,0.515,1848,,113.184,14.645,
+20260211,1,BP014,D,3,10,FF0220,Grain,Elizabeth Sourdough,LPS+,Sample,0.615,8279,,137.049,100.266,
+20260211,1,BP014,D,4,10,FF0221,Grain,Shastha Foods Idli/Idli batter,LPS+,Sample,0.556,4028,,123.017,43.669,
+20260211,1,BP014,D,5,10,FF0222,Grain,Grandios Yellow pap/ogi,LPS+,Sample,0.464,1828,,100.848,14.379,
+20260211,1,BP014,D,6,10,FF0223,Grain,Chantle Sourdough,LPS+,Sample,0.694,5398,,156.113,61.909,
+20260211,1,BP014,D,7,10,FF0224,Soy,CJ Doenjang,LPS+,Sample,0.751,3718,,169.605,39.542,
+20260211,1,BP014,D,8,10,FF0225,Grain,Rachel Sourdough,LPS+,Sample,0.144,748,,24.333,0,
+20260211,1,BP014,D,9,10,FF0227,fruit,Mango pickle,LPS+,Sample,0.555,3478,,122.641,36.347,
+20260211,1,BP014,D,10,10,FF0228,Dairy,Bayley Hazen Blue cheese,LPS+,Sample,0.043,158,,0.219,-7.855,
+20260211,1,BP014,D,11,10,positive_control,NA,PBS,LPS+,positive_control,0.468,7439,,101.836,89.083,
+20260211,1,BP014,D,12,10,positive_control,NA,PBS,LPS+,positive_control,0.469,8329,,102.226,100.932,
+20260211,1,BP014,E,1,10,FF0229,Dairy,Cabot Clothbound cheese,LPS+,Sample,0.649,6819,,145.22,80.828,
+20260211,1,BP014,E,2,10,FF0230,Dairy,Alpha Tolman cheese,LPS+,Sample,0.514,1938,,113.02,15.843,
+20260211,1,BP014,E,3,10,FF0231,Dairy,Moses Sleeper cheese,LPS+,Sample,0.552,5498,,122.063,63.241,
+20260211,1,BP014,E,4,10,FF0232,Dairy,Harbison Cheese,LPS+,Sample,0.642,9249,,143.582,113.181,
+20260211,1,BP014,E,5,10,FF0233,Dairy,Winnimere cheese,LPS+,Sample,0.573,8339,,126.969,101.065,
+20260211,1,BP014,E,6,10,FF0234,fruit,Gochujang,LPS+,Sample,0.69,3108,,154.958,31.421,
+20260211,1,BP014,E,7,10,FF0235,vegetable,"Turmeric, Ginger, Jalepeno sauerkraut",LPS+,Sample,0.656,2728,,147.002,26.361,
+20260211,1,BP014,E,8,10,FF0236,soy,morel mushroom miso,LPS+,Sample,0.042,218,,-0.096,-7.056,
+20260211,1,BP014,E,9,10,FF0237,vegetable,cultured sea kraut,LPS+,Sample,0.7,3298,,157.532,33.95,
+20260211,1,BP014,E,10,10,FF0238,grain,amazake,LPS+,Sample,0.573,7189,,126.959,85.754,
+20260211,1,BP014,E,11,10,negative_control,NA,PBS,LPS-,negative_control,0.042,888,,0.014,1.864,
+20260211,1,BP014,E,12,10,negative_control,NA,PBS,LPS-,negative_control,0.042,678,,-0.092,-0.932,
+20260211,1,BP014,F,1,10,FF0229,Dairy,Cabot Clothbound cheese,LPS+,Sample,0.637,6819,,142.437,80.828,
+20260211,1,BP014,F,2,10,FF0230,Dairy,Alpha Tolman cheese,LPS+,Sample,0.519,4578,,114.042,50.992,
+20260211,1,BP014,F,3,10,FF0231,Dairy,Moses Sleeper cheese,LPS+,Sample,0.288,968,,58.756,2.929,
+20260211,1,BP014,F,4,10,FF0232,Dairy,Harbison Cheese,LPS+,Sample,0.624,4268,,139.196,46.865,
+20260211,1,BP014,F,5,10,FF0233,Dairy,Winnimere cheese,LPS+,Sample,0.634,4978,,141.534,56.317,
+20260211,1,BP014,F,6,10,FF0234,fruit,Gochujang,LPS+,Sample,0.43,1348,,92.735,7.988,
+20260211,1,BP014,F,7,10,FF0235,vegetable,"Turmeric, Ginger, Jalepeno sauerkraut",LPS+,Sample,0.57,3378,,126.385,35.015,
+20260211,1,BP014,F,8,10,FF0236,soy,morel mushroom miso,LPS+,Sample,0.043,268,,0.079,-6.391,
+20260211,1,BP014,F,9,10,FF0237,vegetable,cultured sea kraut,LPS+,Sample,0.738,3058,,166.449,30.755,
+20260211,1,BP014,F,10,10,FF0238,grain,amazake,LPS+,Sample,0.578,10290,,128.289,127.04,
+20260211,1,BP014,F,11,10,negative_control,NA,PBS,LPS-,negative_control,0.043,708,,0.079,-0.533,
+20260211,1,BP014,F,12,10,negative_control,NA,PBS,LPS-,negative_control,0.042,718,,0,-0.399,
+20260211,1,BP014,G,1,10,FF0229,Dairy,Cabot Clothbound cheese,LPS+,Sample,0.61,9500,,135.79,116.522,
+20260211,1,BP014,G,2,10,FF0230,Dairy,Alpha Tolman cheese,LPS+,Sample,0.532,5988,,117.126,69.764,
+20260211,1,BP014,G,3,10,FF0231,Dairy,Moses Sleeper cheese,LPS+,Sample,0.576,4338,,127.739,47.797,
+20260211,1,BP014,G,4,10,FF0232,Dairy,Harbison Cheese,LPS+,Sample,0.624,5058,,139.251,57.383,
+20260211,1,BP014,G,5,10,FF0233,Dairy,Winnimere cheese,LPS+,Sample,0.641,4418,,143.343,48.862,
+20260211,1,BP014,G,6,10,FF0234,fruit,Gochujang,LPS+,Sample,0.658,3178,,147.306,32.353,
+20260211,1,BP014,G,7,10,FF0235,vegetable,"Turmeric, Ginger, Jalepeno sauerkraut",LPS+,Sample,0.575,3608,,127.441,38.077,
+20260211,1,BP014,G,8,10,FF0236,soy,morel mushroom miso,LPS+,Sample,0.039,258,,-0.752,-6.524,
+20260211,1,BP014,G,9,10,FF0237,vegetable,cultured sea kraut,LPS+,Sample,0.649,4398,,145.131,48.595,
+20260211,1,BP014,G,10,10,FF0238,grain,amazake,LPS+,Sample,0.616,5548,,137.285,63.906,
+20260211,1,BP014,G,11,10,blank,NA,PBS,LPS+,blank,0.037,868,,-1.221,1.598,
+20260211,1,BP014,G,12,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.183,378,,33.609,-4.926,
+20260211,1,BP014,H,1,10,FF0229,Dairy,Cabot Clothbound cheese,LPS+,Sample,0.65,8219,,145.572,99.467,
+20260211,1,BP014,H,2,10,FF0230,Dairy,Alpha Tolman cheese,LPS+,Sample,0.556,5888,,123.007,68.433,
+20260211,1,BP014,H,3,10,FF0231,Dairy,Moses Sleeper cheese,LPS+,Sample,0.591,4858,,131.455,54.72,
+20260211,1,BP014,H,4,10,FF0232,Dairy,Harbison Cheese,LPS+,Sample,0.642,5858,,143.658,68.034,
+20260211,1,BP014,H,5,10,FF0233,Dairy,Winnimere cheese,LPS+,Sample,0.658,4938,,147.501,55.785,
+20260211,1,BP014,H,6,10,FF0234,fruit,Gochujang,LPS+,Sample,0.665,4238,,148.991,46.465,
+20260211,1,BP014,H,7,10,FF0235,vegetable,"Turmeric, Ginger, Jalepeno sauerkraut",LPS+,Sample,0.54,2018,,119.171,16.909,
+20260211,1,BP014,H,8,10,FF0236,soy,morel mushroom miso,LPS+,Sample,0.327,88,,68.186,-8.787,
+20260211,1,BP014,H,9,10,FF0237,vegetable,cultured sea kraut,LPS+,Sample,0.673,2708,,151.067,26.095,
+20260211,1,BP014,H,10,10,FF0238,grain,amazake,LPS+,Sample,0.676,3888,,151.617,41.805,
+20260211,1,BP014,H,11,10,blank,NA,PBS,LPS+,blank,0.045,878,,0.745,1.731,
+20260211,1,BP014,H,12,10,kill_control,NA,2.5% DMSO,LPS+,kill _control,0.187,408,,34.772,-4.527,
+20260213,2,BP014,A,1,10,FF0218,Fruit,Burlap & Barrel white peppercorns,LPS+,Sample,0.639,4678,2.301,120.695,18.647,87.289
+20260213,2,BP014,A,2,10,FF0219,Legume,Burlap & Barrel Iru,LPS+,Sample,0.579,7639,3.244,108.445,33.984,127.81
+20260213,2,BP014,A,3,10,FF0220,Grain,Elizabeth Sourdough,LPS+,Sample,0.5,6298,1.972,92.525,27.038,73.142
+20260213,2,BP014,A,4,10,FF0221,Grain,Shastha Foods Idli/Idli batter,LPS+,Sample,0.626,9550,3.181,118.015,43.882,125.131
+20260213,2,BP014,A,5,10,FF0222,Grain,Grandios Yellow pap/ogi,LPS+,Sample,0.376,2058,1.835,67.348,5.076,67.251
+20260213,2,BP014,A,6,10,FF0223,Grain,Chantle Sourdough,LPS+,Sample,0.588,14472,2.484,110.223,69.376,95.149
+20260213,2,BP014,A,7,10,FF0224,Soy,CJ Doenjang,LPS+,Sample,0.782,3558,3.289,149.637,12.846,129.754
+20260213,2,BP014,A,8,10,FF0225,Grain,Rachel Sourdough,LPS+,Sample,0.15,1048,0.145,21.539,-0.155,-5.433
+20260213,2,BP014,A,9,10,FF0227,fruit,Mango pickle,LPS+,Sample,0.652,4318,1.958,123.377,16.782,72.523
+20260213,2,BP014,A,10,10,FF0228,Dairy,Bayley Hazen Blue cheese,LPS+,Sample,0.267,1088,1.699,45.143,0.052,61.399
+20260213,2,BP014,A,11,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.552,7689,2.610,103.107,34.243,100.554
+20260213,2,BP014,A,12,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.563,8459,2.693,105.299,38.231,104.122
+20260213,2,BP014,B,1,10,FF0218,Fruit,Burlap & Barrel white peppercorns,LPS+,Sample,0.622,3778,1.808,117.294,13.985,66.065
+20260213,2,BP014,B,2,10,FF0219,Legume,Burlap & Barrel Iru,LPS+,Sample,0.566,8699,3.054,105.826,39.474,119.658
+20260213,2,BP014,B,3,10,FF0220,Grain,Elizabeth Sourdough,LPS+,Sample,0.513,7579,1.930,95.141,33.673,71.323
+20260213,2,BP014,B,4,10,FF0221,Grain,Shastha Foods Idli/Idli batter,LPS+,Sample,0.642,11891,3.041,121.303,56.008,119.107
+20260213,2,BP014,B,5,10,FF0222,Grain,Grandios Yellow pap/ogi,LPS+,Sample,0.282,1228,1.387,48.358,0.777,47.967
+20260213,2,BP014,B,6,10,FF0223,Grain,Chantle Sourdough,LPS+,Sample,0.512,7209,1.921,94.903,31.757,70.941
+20260213,2,BP014,B,7,10,FF0224,Soy,CJ Doenjang,LPS+,Sample,0.823,4208,3.094,157.979,16.212,121.382
+20260213,2,BP014,B,8,10,FF0225,Grain,Rachel Sourdough,LPS+,Sample,0.232,1158,0.189,38.139,0.414,-3.528
+20260213,2,BP014,B,9,10,FF0227,fruit,Mango pickle,LPS+,Sample,0.457,1528,1.270,83.679,2.331,42.94
+20260213,2,BP014,B,10,10,FF0228,Dairy,Bayley Hazen Blue cheese,LPS+,Sample,0.076,478,0.496,6.497,-3.108,9.651
+20260213,2,BP014,B,11,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.543,6679,2.531,101.102,29.011,97.17
+20260213,2,BP014,B,12,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.547,5708,2.554,102.078,23.982,98.154
+20260213,2,BP014,C,1,10,FF0218,Fruit,Burlap & Barrel white peppercorns,LPS+,Sample,0.599,10790,2.469,112.555,50.305,94.491
+20260213,2,BP014,C,2,10,FF0219,Legume,Burlap & Barrel Iru,LPS+,Sample,0.556,4838,3.218,103.921,19.476,126.722
+20260213,2,BP014,C,3,10,FF0220,Grain,Elizabeth Sourdough,LPS+,Sample,0.619,14142,2.426,116.694,67.667,92.659
+20260213,2,BP014,C,4,10,FF0221,Grain,Shastha Foods Idli/Idli batter,LPS+,Sample,0.595,12581,2.914,111.692,59.582,113.642
+20260213,2,BP014,C,5,10,FF0222,Grain,Grandios Yellow pap/ogi,LPS+,Sample,0.311,2818,2.343,54.123,9.013,89.095
+20260213,2,BP014,C,6,10,FF0223,Grain,Chantle Sourdough,LPS+,Sample,0.571,10900,2.247,106.811,50.875,84.945
+20260213,2,BP014,C,7,10,FF0224,Soy,CJ Doenjang,LPS+,Sample,0.782,2328,3.052,149.568,6.475,119.589
+20260213,2,BP014,C,8,10,FF0225,Grain,Rachel Sourdough,LPS+,Sample,0.216,1178,0.146,34.866,0.518,-5.377
+20260213,2,BP014,C,9,10,FF0227,fruit,Mango pickle,LPS+,Sample,0.71,4258,1.754,134.992,16.471,63.738
+20260213,2,BP014,C,10,10,FF0228,Dairy,Bayley Hazen Blue cheese,LPS+,Sample,0.041,208,0.206,-0.547,-4.506,-2.788
+20260213,2,BP014,C,11,10,positive_control,NA,PBS,LPS+,positive_control,0.539,21908,2.360,100.308,107.893,89.826
+20260213,2,BP014,C,12,10,positive_control,NA,PBS,LPS+,positive_control,0.52,17454,2.398,96.624,84.822,91.459
+20260213,2,BP014,D,1,10,FF0218,Fruit,Burlap & Barrel white peppercorns,LPS+,Sample,0.596,5198,2.594,111.953,21.34,99.896
+20260213,2,BP014,D,2,10,FF0219,Legume,Burlap & Barrel Iru,LPS+,Sample,0.545,2948,3.358,101.641,9.686,132.716
+20260213,2,BP014,D,3,10,FF0220,Grain,Elizabeth Sourdough,LPS+,Sample,0.592,14372,2.424,111.162,68.859,92.577
+20260213,2,BP014,D,4,10,FF0221,Grain,Shastha Foods Idli/Idli batter,LPS+,Sample,0.597,11521,2.963,112.138,54.091,115.749
+20260213,2,BP014,D,5,10,FF0222,Grain,Grandios Yellow pap/ogi,LPS+,Sample,0.321,1598,3.359,56.228,2.693,132.755
+20260213,2,BP014,D,6,10,FF0223,Grain,Chantle Sourdough,LPS+,Sample,0.682,9470,2.610,129.306,43.468,100.549
+20260213,2,BP014,D,7,10,FF0224,Soy,CJ Doenjang,LPS+,Sample,0.785,8219,3.039,150.321,36.988,118.996
+20260213,2,BP014,D,8,10,FF0225,Grain,Rachel Sourdough,LPS+,Sample,0.145,608,0.109,20.487,-2.434,-6.981
+20260213,2,BP014,D,9,10,FF0227,fruit,Mango pickle,LPS+,Sample,0.745,15243,2.126,142.054,73.37,79.764
+20260213,2,BP014,D,10,10,FF0228,Dairy,Bayley Hazen Blue cheese,LPS+,Sample,0.329,1948,1.380,57.801,4.506,47.666
+20260213,2,BP014,D,11,10,positive_control,NA,PBS,LPS+,positive_control,0.555,19876,2.394,103.634,97.367,91.296
+20260213,2,BP014,D,12,10,positive_control,NA,PBS,LPS+,positive_control,0.534,22299,2.328,99.434,109.918,88.445
+20260213,2,BP014,E,1,10,FF0229,Dairy,Cabot Clothbound cheese,LPS+,Sample,0.627,15773,2.841,118.151,76.115,110.486
+20260213,2,BP014,E,2,10,FF0230,Dairy,Alpha Tolman cheese,LPS+,Sample,0.599,6478,2.915,112.633,27.97,113.681
+20260213,2,BP014,E,3,10,FF0231,Dairy,Moses Sleeper cheese,LPS+,Sample,0.621,15513,2.877,117.091,74.769,112.051
+20260213,2,BP014,E,4,10,FF0232,Dairy,Harbison Cheese,LPS+,Sample,0.673,17414,2.690,127.617,84.615,103.993
+20260213,2,BP014,E,5,10,FF0233,Dairy,Winnimere cheese,LPS+,Sample,0.645,19766,2.600,121.862,96.798,100.141
+20260213,2,BP014,E,6,10,FF0234,fruit,Gochujang,LPS+,Sample,0.749,9420,2.998,143.045,43.209,117.246
+20260213,2,BP014,E,7,10,FF0235,vegetable,"Turmeric, Ginger, Jalepeno sauerkraut",LPS+,Sample,0.77,7969,3.024,147.143,35.693,118.346
+20260213,2,BP014,E,8,10,FF0236,soy,morel mushroom miso,LPS+,Sample,0.476,2638,1.753,87.529,8.08,63.734
+20260213,2,BP014,E,9,10,FF0237,vegetable,cultured sea kraut,LPS+,Sample,0.74,6889,2.972,141.199,30.099,116.115
+20260213,2,BP014,E,10,10,FF0238,grain,amazake,LPS+,Sample,0.664,17785,3.102,125.816,86.537,121.704
+20260213,2,BP014,E,11,10,negative_control,NA,PBS,LPS-,negative_control,0.051,908,1.774,1.393,-0.881,64.611
+20260213,2,BP014,E,12,10,negative_control,NA,PBS,LPS-,negative_control,0.04,948,1.824,-0.695,-0.673,66.748
+20260213,2,BP014,F,1,10,FF0229,Dairy,Cabot Clothbound cheese,LPS+,Sample,0.584,13842,2.512,109.604,66.113,96.37
+20260213,2,BP014,F,2,10,FF0230,Dairy,Alpha Tolman cheese,LPS+,Sample,0.578,9490,2.534,108.222,43.571,97.312
+20260213,2,BP014,F,3,10,FF0231,Dairy,Moses Sleeper cheese,LPS+,Sample,0.456,4238,1.860,83.575,16.368,68.322
+20260213,2,BP014,F,4,10,FF0232,Dairy,Harbison Cheese,LPS+,Sample,0.65,10300,2.630,122.931,47.767,101.444
+20260213,2,BP014,F,5,10,FF0233,Dairy,Winnimere cheese,LPS+,Sample,0.648,10940,2.673,122.441,51.082,103.275
+20260213,2,BP014,F,6,10,FF0234,fruit,Gochujang,LPS+,Sample,0.683,5008,2.795,129.567,20.356,108.5
+20260213,2,BP014,F,7,10,FF0235,vegetable,"Turmeric, Ginger, Jalepeno sauerkraut",LPS+,Sample,0.614,9189,2.540,115.565,42.012,97.574
+20260213,2,BP014,F,8,10,FF0236,soy,morel mushroom miso,LPS+,Sample,0.305,2198,1.104,52.874,5.801,35.794
+20260213,2,BP014,F,9,10,FF0237,vegetable,cultured sea kraut,LPS+,Sample,0.711,5368,2.488,135.334,22.221,95.321
+20260213,2,BP014,F,10,10,FF0238,grain,amazake,LPS+,Sample,0.586,16163,2.490,109.818,78.135,95.415
+20260213,2,BP014,F,11,10,negative_control,NA,PBS,LPS-,negative_control,0.042,1558,1.761,-0.411,2.486,64.057
+20260213,2,BP014,F,12,10,negative_control,NA,PBS,LPS-,negative_control,0.043,898,1.750,-0.287,-0.932,63.575
+20260213,2,BP014,G,1,10,FF0229,Dairy,Cabot Clothbound cheese,LPS+,Sample,0.653,17585,2.810,123.443,85.501,109.158
+20260213,2,BP014,G,2,10,FF0230,Dairy,Alpha Tolman cheese,LPS+,Sample,0.669,12761,2.854,126.821,60.514,111.041
+20260213,2,BP014,G,3,10,FF0231,Dairy,Moses Sleeper cheese,LPS+,Sample,0.669,12441,2.934,126.656,58.857,114.481
+20260213,2,BP014,G,4,10,FF0232,Dairy,Harbison Cheese,LPS+,Sample,0.695,12521,3.075,132.075,59.271,120.578
+20260213,2,BP014,G,5,10,FF0233,Dairy,Winnimere cheese,LPS+,Sample,0.716,11380,3.119,136.287,53.361,122.47
+20260213,2,BP014,G,6,10,FF0234,fruit,Gochujang,LPS+,Sample,0.787,9500,3.127,150.721,43.623,122.801
+20260213,2,BP014,G,7,10,FF0235,vegetable,"Turmeric, Ginger, Jalepeno sauerkraut",LPS+,Sample,0.676,11280,2.812,128.069,52.843,109.235
+20260213,2,BP014,G,8,10,FF0236,soy,morel mushroom miso,LPS+,Sample,0.703,8799,2.950,133.715,39.992,115.177
+20260213,2,BP014,G,9,10,FF0237,vegetable,cultured sea kraut,LPS+,Sample,0.719,8159,3.079,136.878,36.677,120.746
+20260213,2,BP014,G,10,10,FF0238,grain,amazake,LPS+,Sample,0.703,13151,3.070,133.602,62.534,120.35
+20260213,2,BP014,G,11,10,blank,NA,PBS,LPS+,blank,0.037,918,1.749,-1.44,-0.829,63.545
+20260213,2,BP014,G,12,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.281,338,0.276,48.095,-3.833,0.187
+20260213,2,BP014,H,1,10,FF0229,Dairy,Cabot Clothbound cheese,LPS+,Sample,0.682,15373,2.847,129.425,74.043,110.744
+20260213,2,BP014,H,2,10,FF0230,Dairy,Alpha Tolman cheese,LPS+,Sample,0.643,16143,2.860,121.543,78.032,111.333
+20260213,2,BP014,H,3,10,FF0231,Dairy,Moses Sleeper cheese,LPS+,Sample,0.68,13031,3.004,128.935,61.913,117.525
+20260213,2,BP014,H,4,10,FF0232,Dairy,Harbison Cheese,LPS+,Sample,0.706,10400,3.166,134.288,48.285,124.478
+20260213,2,BP014,H,5,10,FF0233,Dairy,Winnimere cheese,LPS+,Sample,0.724,11701,3.029,137.993,55.024,118.596
+20260213,2,BP014,H,6,10,FF0234,fruit,Gochujang,LPS+,Sample,0.737,10030,3.167,140.562,46.368,124.517
+20260213,2,BP014,H,7,10,FF0235,vegetable,"Turmeric, Ginger, Jalepeno sauerkraut",LPS+,Sample,0.723,7149,3.036,137.614,31.446,118.871
+20260213,2,BP014,H,8,10,FF0236,soy,morel mushroom miso,LPS+,Sample,0.776,9099,2.946,148.374,41.546,115.01
+20260213,2,BP014,H,9,10,FF0237,vegetable,cultured sea kraut,LPS+,Sample,0.772,8029,3.036,147.694,36.004,118.879
+20260213,2,BP014,H,10,10,FF0238,grain,amazake,LPS+,Sample,0.735,9480,3.024,140.099,43.52,118.355
+20260213,2,BP014,H,11,10,blank,NA,PBS,LPS+,blank,0.049,1238,1.733,1.005,0.829,62.874
+20260213,2,BP014,H,12,10,kill_control,NA,2.5% DMSO,LPS+,kill _control,0.286,488,0.267,49.161,-3.056,-0.187
+20260225,1,BP015,A,1,10,FF0239,fruit/grain,jalapeno kasuzuke (18mo),LPS+,Sample,0.832,12563,3.059,154.548,34.136,119.11
+20260225,1,BP015,A,2,10,FF0241,sugar,beet kombucha,LPS+,Sample,0.715,19458,3.337,131.644,55.107,131.229
+20260225,1,BP015,A,3,10,FF0242,vegetable/grain,carrot nukazuke,LPS+,Sample,0.762,37631,3.141,140.771,110.382,122.72
+20260225,1,BP015,A,4,10,FF0243,Dairy,Filmjolk yogurt,LPS+,Sample,0.672,36469,2.677,123.126,106.847,102.458
+20260225,1,BP015,A,5,10,FF0245,Dairy,Piima yogurt,LPS+,Sample,0.69,21420,2.662,126.664,61.075,101.804
+20260225,1,BP015,A,6,10,FF0246,dairy,Viili yogurt,LPS+,Sample,0.665,37811,2.818,121.809,110.929,108.63
+20260225,1,BP015,A,7,10,FF0247,Dairy,kefir,LPS+,Sample,0.674,30099,2.921,123.525,87.473,113.099
+20260225,1,BP015,A,8,10,FF0248,Grain/legume,dosa batter,LPS+,Sample,0.771,17326,3.246,142.548,48.623,127.262
+20260225,1,BP015,A,9,10,FF0250,Grain/legume,millet dosa batter,LPS+,Sample,0.783,17016,3.491,144.889,47.68,137.956
+20260225,1,BP015,A,10,10,FF0251,Grain/legume,millet dosa,LPS+,Sample,0.782,7831,3.663,144.791,19.743,145.445
+20260225,1,BP015,A,11,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.609,15625,2.674,110.863,43.449,102.336
+20260225,1,BP015,A,12,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.602,15795,2.737,109.454,43.966,105.099
+20260225,1,BP015,A,13,10,FF0239,fruit/grain,jalapeno kasuzuke (18mo),LPS+,Sample,0.833,14254,2.978,154.746,39.279,115.575
+20260225,1,BP015,A,14,10,FF0241,sugar,beet kombucha,LPS+,Sample,0.699,18467,2.905,128.516,52.093,112.41
+20260225,1,BP015,A,15,10,FF0242,vegetable/grain,carrot nukazuke,LPS+,Sample,0.76,35557,3.038,140.313,104.073,118.23
+20260225,1,BP015,A,16,10,FF0243,Dairy,Filmjolk yogurt,LPS+,Sample,0.632,31241,2.543,115.394,90.946,96.629
+20260225,1,BP015,A,17,10,FF0245,Dairy,Piima yogurt,LPS+,Sample,0.663,24533,2.534,121.41,70.543,96.246
+20260225,1,BP015,A,18,10,FF0246,dairy,Viili yogurt,LPS+,Sample,0.637,33925,2.650,116.399,99.11,101.315
+20260225,1,BP015,A,19,10,FF0247,Dairy,kefir,LPS+,Sample,0.644,28788,2.685,117.802,83.485,102.828
+20260225,1,BP015,A,20,10,FF0248,Grain/legume,dosa batter,LPS+,Sample,0.746,16936,3.078,137.584,47.436,119.956
+20260225,1,BP015,A,21,10,FF0250,Grain/legume,millet dosa batter,LPS+,Sample,0.719,15195,3.201,132.473,42.141,125.331
+20260225,1,BP015,A,22,10,FF0251,Grain/legume,millet dosa,LPS+,Sample,0.778,9632,3.527,143.89,25.221,139.512
+20260225,1,BP015,A,23,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.584,14834,2.542,105.989,41.043,96.577
+20260225,1,BP015,A,24,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.58,14444,2.528,105.303,39.857,95.988
+20260225,1,BP015,A,25,10,FF0239,fruit/grain,jalapeno kasuzuke (18mo),LPS+,Sample,0.778,15575,2.877,143.907,43.297,111.181
+20260225,1,BP015,A,26,10,FF0241,sugar,beet kombucha,LPS+,Sample,0.677,17887,3.103,124.228,50.329,121.059
+20260225,1,BP015,A,27,10,FF0242,vegetable/grain,carrot nukazuke,LPS+,Sample,0.718,36088,2.941,132.252,105.688,113.984
+20260225,1,BP015,A,28,10,FF0243,Dairy,Filmjolk yogurt,LPS+,Sample,0.628,29979,2.429,114.686,87.108,91.681
+20260225,1,BP015,A,29,10,FF0245,Dairy,Piima yogurt,LPS+,Sample,0.645,20078,2.393,117.97,56.993,90.108
+20260225,1,BP015,A,30,10,FF0246,dairy,Viili yogurt,LPS+,Sample,0.604,35387,2.542,109.917,103.556,96.568
+20260225,1,BP015,A,31,10,FF0247,Dairy,kefir,LPS+,Sample,0.603,25924,2.645,109.767,74.774,101.089
+20260225,1,BP015,A,32,10,FF0248,Grain/legume,dosa batter,LPS+,Sample,0.682,17246,2.890,125.157,48.379,111.743
+20260225,1,BP015,A,33,10,FF0250,Grain/legume,millet dosa batter,LPS+,Sample,0.702,17446,3.188,128.996,48.988,124.738
+20260225,1,BP015,A,34,10,FF0251,Grain/legume,millet dosa,LPS+,Sample,0.743,10732,3.522,137.118,28.566,139.329
+20260225,1,BP015,A,35,10,positive_control,NA,PBS,LPS+,positive_control,0.572,32873,2.477,103.693,95.91,93.769
+20260225,1,BP015,A,36,10,positive_control,NA,PBS,LPS+,positive_control,0.541,35227,2.484,97.58,103.07,94.079
+20260225,1,BP015,A,37,10,FF0239,fruit/grain,jalapeno kasuzuke (18mo),LPS+,Sample,0.759,12043,2.947,140.19,32.554,114.241
+20260225,1,BP015,A,38,10,FF0241,sugar,beet kombucha,LPS+,Sample,0.647,18687,2.929,118.316,52.762,113.447
+20260225,1,BP015,A,39,10,FF0242,vegetable/grain,carrot nukazuke,LPS+,Sample,0.701,35337,2.938,128.907,103.404,113.857
+20260225,1,BP015,A,40,10,FF0243,Dairy,Filmjolk yogurt,LPS+,Sample,0.581,31391,2.424,105.384,91.402,91.463
+20260225,1,BP015,A,41,10,FF0245,Dairy,Piima yogurt,LPS+,Sample,0.598,19178,2.423,108.796,54.256,91.394
+20260225,1,BP015,A,42,10,FF0246,dairy,Viili yogurt,LPS+,Sample,0.603,32473,2.480,109.775,94.693,93.878
+20260225,1,BP015,A,43,10,FF0247,Dairy,kefir,LPS+,Sample,0.594,30110,2.600,107.892,87.506,99.127
+20260225,1,BP015,A,44,10,FF0248,Grain/legume,dosa batter,LPS+,Sample,0.67,17236,2.882,122.733,48.349,111.39
+20260225,1,BP015,A,45,10,FF0250,Grain/legume,millet dosa batter,LPS+,Sample,0.702,21550,3.079,129.13,61.47,119.978
+20260225,1,BP015,A,46,10,FF0251,Grain/legume,millet dosa,LPS+,Sample,0.723,9281,3.527,133.168,24.153,139.508
+20260225,1,BP015,A,47,10,positive_control,NA,PBS,LPS+,positive_control,0.557,34305,2.504,100.824,100.265,94.938
+20260225,1,BP015,A,48,10,positive_control,NA,PBS,LPS+,positive_control,0.542,34466,2.461,97.903,100.755,93.068
+20260225,1,BP015,A,49,10,FF0254,sugar,water kefir,LPS+,Sample,0.561,37260,2.558,101.592,109.253,97.292
+20260225,1,BP015,A,50,10,FF0256,soy,fermented black beans (douchi),LPS+,Sample,0.042,130,0.178,0.115,-3.68,-6.474
+20260225,1,BP015,A,51,10,FF0121,Dairy,"Straus organic kefir, plain",LPS+,Sample,0.543,35437,2.400,98.073,103.708,90.387
+20260225,1,BP015,A,52,10,FF0123,Dairy,kefirlab probiotic kefir,LPS+,Sample,0.545,33444,2.408,98.5,97.647,90.735
+20260225,1,BP015,A,53,10,FF0128,Dairy,alexandre family famr a2/a2 organic plain yogurt,LPS+,Sample,0.547,37370,2.467,98.883,109.588,93.307
+20260225,1,BP015,A,54,10,FF0130,Dairy,good culture cottage cheese,LPS+,Sample,0.552,30570,2.517,99.706,88.905,95.518
+20260225,1,BP015,A,55,10,FF0137,Dairy,le gryuere switzerland,LPS+,Sample,0.597,25143,2.752,108.645,72.399,105.753
+20260225,1,BP015,A,56,10,FF0146,Vegetable - Cabbage,wild west ferments signature sauerkraut,LPS+,Sample,0.668,7481,2.885,122.437,18.678,111.529
+20260225,1,BP015,A,57,10,FF0149,Vegetable - Cabbage,wildbrine raw organic kraut,LPS+,Sample,0.719,14284,3.155,132.331,39.37,123.304
+20260225,1,BP015,A,58,10,FF0262,Grain,Kelly's amazake,LPS+,Sample,0.663,62074,2.478,121.368,184.727,93.809
+20260225,1,BP015,A,59,10,negative_control,NA,PBS,LPS-,negative_control,0.042,1520,2.000,0.154,0.547,72.98
+20260225,1,BP015,A,60,10,negative_control,NA,PBS,LPS-,negative_control,0.041,1170,2.027,0.045,-0.517,74.126
+20260225,1,BP015,A,61,10,FF0254,sugar,water kefir,LPS+,Sample,0.546,40065,2.500,98.534,117.785,94.742
+20260225,1,BP015,A,62,10,FF0256,soy,fermented black beans (douchi),LPS+,Sample,0.042,210,0.207,0.076,-3.437,-5.201
+20260225,1,BP015,A,63,10,FF0121,Dairy,"Straus organic kefir, plain",LPS+,Sample,0.54,36589,2.423,97.393,107.212,91.389
+20260225,1,BP015,A,64,10,FF0123,Dairy,kefirlab probiotic kefir,LPS+,Sample,0.511,33214,2.442,91.757,96.947,92.239
+20260225,1,BP015,A,65,10,FF0128,Dairy,alexandre family famr a2/a2 organic plain yogurt,LPS+,Sample,0.527,40816,2.501,94.84,120.069,94.798
+20260225,1,BP015,A,66,10,FF0130,Dairy,good culture cottage cheese,LPS+,Sample,0.542,35077,2.481,97.853,102.613,93.935
+20260225,1,BP015,A,67,10,FF0137,Dairy,le gryuere switzerland,LPS+,Sample,0.581,27196,2.739,105.392,78.643,105.173
+20260225,1,BP015,A,68,10,FF0146,Vegetable - Cabbage,wild west ferments signature sauerkraut,LPS+,Sample,0.663,8131,2.887,121.43,20.655,111.617
+20260225,1,BP015,A,69,10,FF0149,Vegetable - Cabbage,wildbrine raw organic kraut,LPS+,Sample,0.691,12733,3.177,126.867,34.653,124.263
+20260225,1,BP015,A,70,10,FF0262,Grain,Kelly's amazake,LPS+,Sample,0.63,62526,2.416,115.012,186.102,91.075
+20260225,1,BP015,A,71,10,negative_control,NA,PBS,LPS-,negative_control,0.041,1570,1.970,-0.055,0.7,71.654
+20260225,1,BP015,A,72,10,negative_control,NA,PBS,LPS-,negative_control,0.04,1100,1.982,-0.144,-0.73,72.191
+20260225,1,BP015,A,73,10,FF0254,sugar,water kefir,LPS+,Sample,0.507,38893,2.461,91.042,114.22,93.046
+20260225,1,BP015,A,74,10,FF0256,soy,fermented black beans (douchi),LPS+,Sample,0.038,200,0.173,-0.596,-3.467,-6.674
+20260225,1,BP015,A,75,10,FF0121,Dairy,"Straus organic kefir, plain",LPS+,Sample,0.512,35878,2.347,92.016,105.05,88.072
+20260225,1,BP015,A,76,10,FF0123,Dairy,kefirlab probiotic kefir,LPS+,Sample,0.527,35527,2.424,94.943,103.982,91.446
+20260225,1,BP015,A,77,10,FF0128,Dairy,alexandre family famr a2/a2 organic plain yogurt,LPS+,Sample,0.54,35507,2.534,97.446,103.921,96.246
+20260225,1,BP015,A,78,10,FF0130,Dairy,good culture cottage cheese,LPS+,Sample,0.552,40005,2.512,99.761,117.602,95.269
+20260225,1,BP015,A,79,10,FF0137,Dairy,le gryuere switzerland,LPS+,Sample,0.57,27656,2.763,103.241,80.042,106.202
+20260225,1,BP015,A,80,10,FF0146,Vegetable - Cabbage,wild west ferments signature sauerkraut,LPS+,Sample,0.644,8031,2.962,117.705,20.351,114.877
+20260225,1,BP015,A,81,10,FF0149,Vegetable - Cabbage,wildbrine raw organic kraut,LPS+,Sample,0.674,13714,3.245,123.597,37.636,127.254
+20260225,1,BP015,A,82,10,FF0262,Grain,Kelly's amazake,LPS+,Sample,0.603,61433,2.404,109.77,182.777,90.574
+20260225,1,BP015,A,83,10,blank,NA,PBS,LPS+,blank,0.037,1280,2.000,-0.719,-0.182,72.949
+20260225,1,BP015,A,84,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.234,690,0.327,37.762,-1.977,0.031
+20260225,1,BP015,A,85,10,FF0254,sugar,water kefir,LPS+,Sample,0.499,40315,2.427,89.427,118.545,91.577
+20260225,1,BP015,A,86,10,FF0256,soy,fermented black beans (douchi),LPS+,Sample,0.043,250,0.198,0.285,-3.315,-5.615
+20260225,1,BP015,A,87,10,FF0121,Dairy,"Straus organic kefir, plain",LPS+,Sample,0.503,37881,2.383,90.197,111.142,89.65
+20260225,1,BP015,A,88,10,FF0123,Dairy,kefirlab probiotic kefir,LPS+,Sample,0.521,39885,2.414,93.721,117.237,91.014
+20260225,1,BP015,A,89,10,FF0128,Dairy,alexandre family famr a2/a2 organic plain yogurt,LPS+,Sample,0.518,40476,2.391,93.202,119.035,90.012
+20260225,1,BP015,A,90,10,FF0130,Dairy,good culture cottage cheese,LPS+,Sample,0.532,41427,2.399,95.959,121.927,90.365
+20260225,1,BP015,A,91,10,FF0137,Dairy,le gryuere switzerland,LPS+,Sample,0.563,27056,2.800,101.954,78.217,107.846
+20260225,1,BP015,A,92,10,FF0146,Vegetable - Cabbage,wild west ferments signature sauerkraut,LPS+,Sample,0.626,7201,2.865,114.228,17.827,110.649
+20260225,1,BP015,A,93,10,FF0149,Vegetable - Cabbage,wildbrine raw organic kraut,LPS+,Sample,0.65,14714,3.195,118.829,40.678,125.048
+20260225,1,BP015,A,94,10,FF0262,Grain,Kelly's amazake,LPS+,Sample,0.583,57482,2.353,105.791,170.76,88.342
+20260225,1,BP015,A,95,10,blank,NA,PBS,LPS+,blank,0.041,1320,1.891,0.059,-0.061,68.224
+20260225,1,BP015,A,96,10,kill_control,NA,2.5% DMSO,LPS+,kill _control,0.22,740,0.326,35.017,-1.825,-0.031
+20260227,2,BP015,A,1,10,FF0239,fruit/grain,jalapeno kasuzuke (18mo),LPS+,Sample,0.641,8834,2.196,166.518,31.151,121.687
+20260227,2,BP015,A,2,10,FF0241,sugar,beet kombucha,LPS+,Sample,0.539,11866,2.201,138.312,43.909,122.019
+20260227,2,BP015,A,3,10,FF0242,vegetable/grain,carrot nukazuke,LPS+,Sample,0.565,22554,2.214,145.617,88.88,122.817
+20260227,2,BP015,A,4,10,FF0243,Dairy,Filmjolk yogurt,LPS+,Sample,0.491,22223,1.761,124.795,87.488,95.012
+20260227,2,BP015,A,5,10,FF0245,Dairy,Piima yogurt,LPS+,Sample,0.531,16168,1.822,135.933,62.01,98.721
+20260227,2,BP015,A,6,10,FF0246,dairy,Viili yogurt,LPS+,Sample,0.52,21092,1.879,133.105,82.729,102.252
+20260227,2,BP015,A,7,10,FF0247,Dairy,kefir,LPS+,Sample,0.542,20482,1.995,139.178,80.162,109.363
+20260227,2,BP015,A,8,10,FF0248,Grain/legume,dosa batter,LPS+,Sample,0.594,11686,2.280,153.45,43.152,126.889
+20260227,2,BP015,A,9,10,FF0250,Grain/legume,millet dosa batter,LPS+,Sample,0.599,12396,2.417,154.919,46.139,135.258
+20260227,2,BP015,A,10,10,FF0251,Grain/legume,millet dosa,LPS+,Sample,0.609,12846,2.458,157.692,48.032,137.776
+20260227,2,BP015,A,11,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.456,10065,1.850,115.25,36.331,100.465
+20260227,2,BP015,A,12,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.449,11906,1.811,113.244,44.077,98.089
+20260227,2,BP015,A,13,10,FF0239,fruit/grain,jalapeno kasuzuke (18mo),LPS+,Sample,0.598,9194,2.112,154.741,32.666,116.572
+20260227,2,BP015,A,14,10,FF0241,sugar,beet kombucha,LPS+,Sample,0.492,10645,2.094,125.069,38.771,115.43
+20260227,2,BP015,A,15,10,FF0242,vegetable/grain,carrot nukazuke,LPS+,Sample,0.524,19101,2.174,133.998,74.351,120.337
+20260227,2,BP015,A,16,10,FF0243,Dairy,Filmjolk yogurt,LPS+,Sample,0.452,17960,1.749,113.991,69.55,94.232
+20260227,2,BP015,A,17,10,FF0245,Dairy,Piima yogurt,LPS+,Sample,0.477,16529,1.746,120.998,63.529,94.06
+20260227,2,BP015,A,18,10,FF0246,dairy,Viili yogurt,LPS+,Sample,0.474,20372,1.822,120.1,79.699,98.752
+20260227,2,BP015,A,19,10,FF0247,Dairy,kefir,LPS+,Sample,0.492,19571,1.871,125.061,76.329,101.742
+20260227,2,BP015,A,20,10,FF0248,Grain/legume,dosa batter,LPS+,Sample,0.536,12386,2.149,137.319,46.097,118.789
+20260227,2,BP015,A,21,10,FF0250,Grain/legume,millet dosa batter,LPS+,Sample,0.539,13406,2.295,138.141,50.389,127.797
+20260227,2,BP015,A,22,10,FF0251,Grain/legume,millet dosa,LPS+,Sample,0.558,10915,2.385,143.452,39.907,133.336
+20260227,2,BP015,A,23,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.422,9835,1.838,105.812,35.363,99.728
+20260227,2,BP015,A,24,10,inhibitor2,NA,100nM ruxolitinib,LPS+,inhibitor,0.427,9925,1.871,107.036,35.742,101.718
+20260227,2,BP015,A,25,10,FF0239,fruit/grain,jalapeno kasuzuke (18mo),LPS+,Sample,0.564,11235,2.102,145.116,41.254,115.946
+20260227,2,BP015,A,26,10,FF0241,sugar,beet kombucha,LPS+,Sample,0.457,13527,2.005,115.385,50.898,109.989
+20260227,2,BP015,A,27,10,FF0242,vegetable/grain,carrot nukazuke,LPS+,Sample,0.476,18790,2.058,120.735,73.043,113.207
+20260227,2,BP015,A,28,10,FF0243,Dairy,Filmjolk yogurt,LPS+,Sample,0.468,20982,1.700,118.63,82.266,91.254
+20260227,2,BP015,A,29,10,FF0245,Dairy,Piima yogurt,LPS+,Sample,0.463,13747,1.654,117.041,51.823,88.405
+20260227,2,BP015,A,30,10,FF0246,dairy,Viili yogurt,LPS+,Sample,0.453,18590,1.755,114.316,72.201,94.625
+20260227,2,BP015,A,31,10,FF0247,Dairy,kefir,LPS+,Sample,0.476,19191,1.819,120.727,74.73,98.549
+20260227,2,BP015,A,32,10,FF0248,Grain/legume,dosa batter,LPS+,Sample,0.507,14377,2.013,129.327,54.474,110.456
+20260227,2,BP015,A,33,10,FF0250,Grain/legume,millet dosa batter,LPS+,Sample,0.521,12706,2.247,133.363,47.443,124.85
+20260227,2,BP015,A,34,10,FF0251,Grain/legume,millet dosa,LPS+,Sample,0.559,13196,2.332,143.913,49.505,130.07
+20260227,2,BP015,A,35,10,positive_control,NA,PBS,LPS+,positive_control,0.362,20882,1.683,89.098,81.845,90.229
+20260227,2,BP015,A,36,10,positive_control,NA,PBS,LPS+,positive_control,0.413,24616,1.698,103.206,97.556,91.113
+20260227,2,BP015,A,37,10,FF0239,fruit/grain,jalapeno kasuzuke (18mo),LPS+,Sample,0.55,8534,2.114,141.196,29.889,116.683
+20260227,2,BP015,A,38,10,FF0241,sugar,beet kombucha,LPS+,Sample,0.446,13276,2.000,112.505,49.842,109.67
+20260227,2,BP015,A,39,10,FF0242,vegetable/grain,carrot nukazuke,LPS+,Sample,0.483,19861,2.229,122.59,77.549,123.745
+20260227,2,BP015,A,40,10,FF0243,Dairy,Filmjolk yogurt,LPS+,Sample,0.417,16368,1.757,104.398,62.852,94.754
+20260227,2,BP015,A,41,10,FF0245,Dairy,Piima yogurt,LPS+,Sample,0.446,12616,1.755,112.287,47.065,94.65
+20260227,2,BP015,A,42,10,FF0246,dairy,Viili yogurt,LPS+,Sample,0.449,20682,1.707,113.192,81.004,91.653
+20260227,2,BP015,A,43,10,FF0247,Dairy,kefir,LPS+,Sample,0.467,18900,1.919,118.213,73.505,104.678
+20260227,2,BP015,A,44,10,FF0248,Grain/legume,dosa batter,LPS+,Sample,0.505,12026,2.050,128.711,44.582,112.765
+20260227,2,BP015,A,45,10,FF0250,Grain/legume,millet dosa batter,LPS+,Sample,0.515,13607,2.193,131.552,51.234,121.522
+20260227,2,BP015,A,46,10,FF0251,Grain/legume,millet dosa,LPS+,Sample,0.552,11706,2.491,141.776,43.236,139.809
+20260227,2,BP015,A,47,10,positive_control,NA,PBS,LPS+,positive_control,0.412,23925,1.691,102.901,94.649,90.714
+20260227,2,BP015,A,48,10,positive_control,NA,PBS,LPS+,positive_control,0.419,31364,1.684,104.795,125.95,90.235
+20260227,2,BP015,A,49,10,FF0254,sugar,water kefir,LPS+,Sample,0.395,26168,1.744,98.297,104.087,93.925
+20260227,2,BP015,A,50,10,FF0256,soy,fermented black beans (douchi),LPS+,Sample,0.494,7114,2.286,125.784,23.914,127.245
+20260227,2,BP015,A,51,10,FF0121,Dairy,"Straus organic kefir, plain",LPS+,Sample,0.406,22524,1.696,101.387,88.754,90.996
+20260227,2,BP015,A,52,10,FF0123,Dairy,kefirlab probiotic kefir,LPS+,Sample,0.408,25777,1.694,101.796,102.441,90.867
+20260227,2,BP015,A,53,10,FF0128,Dairy,alexandre family famr a2/a2 organic plain yogurt,LPS+,Sample,0.407,25167,1.702,101.51,99.875,91.371
+20260227,2,BP015,A,54,10,FF0130,Dairy,good culture cottage cheese,LPS+,Sample,0.438,27199,1.841,110.301,108.425,99.888
+20260227,2,BP015,A,55,10,FF0137,Dairy,le gryuere switzerland,LPS+,Sample,0.482,20502,2.087,122.344,80.246,115.037
+20260227,2,BP015,A,56,10,FF0146,Vegetable - Cabbage,wild west ferments signature sauerkraut,LPS+,Sample,0.545,7484,2.065,139.949,25.471,113.637
+20260227,2,BP015,A,57,10,FF0149,Vegetable - Cabbage,wildbrine raw organic kraut,LPS+,Sample,0.559,9695,2.304,143.901,34.774,128.362
+20260227,2,BP015,A,58,10,FF0262,Grain,Kelly's amazake,LPS+,Sample,0.518,30443,1.843,132.362,122.074,100.035
+20260227,2,BP015,A,59,10,negative_control,NA,PBS,LPS-,negative_control,0.042,1653,1.528,0.178,0.936,80.655
+20260227,2,BP015,A,60,10,negative_control,NA,PBS,LPS-,negative_control,0.041,1393,1.475,-0.092,-0.158,77.425
+20260227,2,BP015,A,61,10,FF0254,sugar,water kefir,LPS+,Sample,0.422,25577,1.728,105.717,101.6,92.943
+20260227,2,BP015,A,62,10,FF0256,soy,fermented black beans (douchi),LPS+,Sample,0.454,1573,1.953,114.499,0.6,106.802
+20260227,2,BP015,A,63,10,FF0121,Dairy,"Straus organic kefir, plain",LPS+,Sample,0.398,23194,1.663,98.984,91.573,88.988
+20260227,2,BP015,A,64,10,FF0123,Dairy,kefirlab probiotic kefir,LPS+,Sample,0.405,22854,1.756,101.097,90.143,94.693
+20260227,2,BP015,A,65,10,FF0128,Dairy,alexandre family famr a2/a2 organic plain yogurt,LPS+,Sample,0.407,21273,1.784,101.526,83.49,96.394
+20260227,2,BP015,A,66,10,FF0130,Dairy,good culture cottage cheese,LPS+,Sample,0.425,19961,1.862,106.48,77.97,101.22
+20260227,2,BP015,A,67,10,FF0137,Dairy,le gryuere switzerland,LPS+,Sample,0.459,17269,2.048,115.981,66.643,112.624
+20260227,2,BP015,A,68,10,FF0146,Vegetable - Cabbage,wild west ferments signature sauerkraut,LPS+,Sample,0.532,6623,2.038,136.171,21.848,112.01
+20260227,2,BP015,A,69,10,FF0149,Vegetable - Cabbage,wildbrine raw organic kraut,LPS+,Sample,0.569,9635,2.372,146.534,34.522,132.526
+20260227,2,BP015,A,70,10,FF0262,Grain,Kelly's amazake,LPS+,Sample,0.513,32296,1.730,131.075,129.871,93.072
+20260227,2,BP015,A,71,10,negative_control,NA,PBS,LPS-,negative_control,0.042,1423,1.446,0.138,-0.032,75.663
+20260227,2,BP015,A,72,10,negative_control,NA,PBS,LPS-,negative_control,0.041,1253,1.438,-0.223,-0.747,75.165
+20260227,2,BP015,A,73,10,FF0254,sugar,water kefir,LPS+,Sample,0.404,26648,1.764,100.585,106.106,95.178
+20260227,2,BP015,A,74,10,FF0256,soy,fermented black beans (douchi),LPS+,Sample,0.498,8064,2.233,126.924,27.911,123.972
+20260227,2,BP015,A,75,10,FF0121,Dairy,"Straus organic kefir, plain",LPS+,Sample,0.393,21953,1.618,97.602,86.351,86.206
+20260227,2,BP015,A,76,10,FF0123,Dairy,kefirlab probiotic kefir,LPS+,Sample,0.395,25477,1.628,98.214,101.179,86.839
+20260227,2,BP015,A,77,10,FF0128,Dairy,alexandre family famr a2/a2 organic plain yogurt,LPS+,Sample,0.401,24356,1.733,99.989,96.462,93.281
+20260227,2,BP015,A,78,10,FF0130,Dairy,good culture cottage cheese,LPS+,Sample,0.427,27790,1.759,107.02,110.911,94.877
+20260227,2,BP015,A,79,10,FF0137,Dairy,le gryuere switzerland,LPS+,Sample,0.448,18440,2.006,112.847,71.57,110.063
+20260227,2,BP015,A,80,10,FF0146,Vegetable - Cabbage,wild west ferments signature sauerkraut,LPS+,Sample,0.512,6583,2.039,130.773,21.68,112.077
+20260227,2,BP015,A,81,10,FF0149,Vegetable - Cabbage,wildbrine raw organic kraut,LPS+,Sample,0.551,8844,2.331,141.696,31.193,130.008
+20260227,2,BP015,A,82,10,FF0262,Grain,Kelly's amazake,LPS+,Sample,0.504,34920,1.797,128.481,140.912,97.217
+20260227,2,BP015,A,83,10,blank,NA,PBS,LPS+,blank,0.037,1173,1.504,-1.212,-1.083,79.206
+20260227,2,BP015,A,84,10,kill_control,NA,2.5% DMSO,LPS+,kill_control,0.148,383,0.215,29.476,-4.408,0.04
+20260227,2,BP015,A,85,10,FF0254,sugar,water kefir,LPS+,Sample,0.41,28180,1.755,102.285,112.552,94.638
+20260227,2,BP015,A,86,10,FF0256,soy,fermented black beans (douchi),LPS+,Sample,0.486,5863,2.127,123.619,18.65,117.481
+20260227,2,BP015,A,87,10,FF0121,Dairy,"Straus organic kefir, plain",LPS+,Sample,0.422,23465,1.760,105.792,92.713,94.945
+20260227,2,BP015,A,88,10,FF0123,Dairy,kefirlab probiotic kefir,LPS+,Sample,0.405,29041,1.624,101.105,116.175,86.563
+20260227,2,BP015,A,89,10,FF0128,Dairy,alexandre family famr a2/a2 organic plain yogurt,LPS+,Sample,0.431,27269,1.744,108.219,108.719,93.95
+20260227,2,BP015,A,90,10,FF0130,Dairy,good culture cottage cheese,LPS+,Sample,0.433,26048,1.744,108.871,103.582,93.95
+20260227,2,BP015,A,91,10,FF0137,Dairy,le gryuere switzerland,LPS+,Sample,0.444,18360,1.972,111.897,71.233,107.963
+20260227,2,BP015,A,92,10,FF0146,Vegetable - Cabbage,wild west ferments signature sauerkraut,LPS+,Sample,0.513,7084,1.969,131.027,23.788,107.773
+20260227,2,BP015,A,93,10,FF0149,Vegetable - Cabbage,wildbrine raw organic kraut,LPS+,Sample,0.549,8284,2.260,141.013,28.837,125.63
+20260227,2,BP015,A,94,10,FF0262,Grain,Kelly's amazake,LPS+,Sample,0.503,35711,1.710,128.191,144.24,91.862
+20260227,2,BP015,A,95,10,blank,NA,PBS,LPS+,blank,0.046,1293,1.482,1.06,-0.579,77.861
+20260227,2,BP015,A,96,10,kill_control,NA,2.5% DMSO,LPS+,kill _control,0.15,623,0.213,29.996,-3.398,-0.04
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

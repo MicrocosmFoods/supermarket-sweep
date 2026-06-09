@@ -1,0 +1,17 @@
+﻿fastq_1,fastq_2,sample_name,fermented_food
+7741_001_S26_R1.fastq.gz,7741_001_S26_R2.fastq.gz,FF0100_Cultured Pickle Raw Vintage Kraut,sauerkraut
+7741_002_S27_R1.fastq.gz,7741_002_S27_R2.fastq.gz,FF0121_straus organic kefir,kefir
+7741_003_S28_R1.fastq.gz,7741_003_S28_R2.fastq.gz,FF0125_straus organic yogurt,yogurt
+7741_004_S29_R1.fastq.gz,7741_004_S29_R2.fastq.gz,FF0137_le gryuere switzerland,cheese
+7741_005_S30_R1.fastq.gz,7741_005_S30_R2.fastq.gz,FF0139_taleggio,cheese
+7741_006_S31_R1.fastq.gz,7741_006_S31_R2.fastq.gz,FF0145_wild west ferments simply sauerkraut,sauerkraut
+7741_007_S32_R1.fastq.gz,7741_007_S32_R2.fastq.gz,FF0146_wild west ferments signature sauerkraut,sauerkraut
+7741_008_S33_R1.fastq.gz,7741_008_S33_R2.fastq.gz,FF0149_wildbrine raw organic kraut,sauerkraut
+7741_009_S34_R1.fastq.gz,7741_009_S34_R2.fastq.gz,FF0153_britt's pickles,pickles
+7741_010_S35_R1.fastq.gz,7741_010_S35_R2.fastq.gz,"FF0154_sonoma brinery fresh pickles, manhatton style",pickles
+7741_011_S36_R1.fastq.gz,7741_011_S36_R2.fastq.gz,FF0155_bubbie's baby kosher dill pickles,pickles
+7741_012_S37_R1.fastq.gz,7741_012_S37_R2.fastq.gz,FF0156_cultured classic dills,pickles
+7741_013_S38_R1.fastq.gz,7741_013_S38_R2.fastq.gz,FF0157_sinto gourmet kimchi (mild white),kimchi
+7741_014_S39_R1.fastq.gz,7741_014_S39_R2.fastq.gz,FF0158_jongga mat kimchi,kimchi
+7741_015_S40_R1.fastq.gz,7741_015_S40_R2.fastq.gz,"FF0160_mother in law's kimchi, house",kimchi
+7741_016_S41_R1.fastq.gz,7741_016_S41_R2.fastq.gz,FF0162_cultured napa cabbage kimchi,kimchi
