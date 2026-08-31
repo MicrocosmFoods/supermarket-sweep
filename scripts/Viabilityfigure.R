@@ -6,8 +6,8 @@ library(ggplot2)
 # -----------------------------------------------------------------------------
 # 1. Load Data
 # -----------------------------------------------------------------------------
-main_df <- read_excel("Fermented_food_data_mastersheet.xlsx", sheet = "full_data")
-tsv_df  <- read_tsv("FF samples - Combined master sheet.tsv")
+main_df <- read_excel("raw_data/bioactivity/Fermented_food_data_mastersheet.xlsx", sheet = "full_data")
+tsv_df  <- read_tsv("metadata/FF samples - Combined master sheet.tsv")
 
 # -----------------------------------------------------------------------------
 # 2. Update & Standardize Control Sample Types
@@ -120,7 +120,7 @@ category_colors <- c(
 # -----------------------------------------------------------------------------
 # 7. Viability Violin Plot Generation
 # -----------------------------------------------------------------------------
-ggplot(plot_df, aes(x = Group, y = normalized_viability, fill = Group, color = Group)) +
+viability_violin_plot <- ggplot(plot_df, aes(x = Group, y = normalized_viability, fill = Group, color = Group)) +
   # Violin outline & fill
   geom_violin(alpha = 0.5, scale = "width", trim = FALSE, linewidth = 0.8) +
   
@@ -163,3 +163,9 @@ ggplot(plot_df, aes(x = Group, y = normalized_viability, fill = Group, color = G
     axis.title.y = element_text(face = "bold", size = 11),
     legend.position = "none"
   )
+
+# -----------------------------------------------------------------------------
+# 8. Export plot
+# -----------------------------------------------------------------------------
+
+ggsave("figures/Viability_norm.png", viability_violin_plot, width=30, height=8, units=c("cm"))
