@@ -92,7 +92,7 @@ PDTC	Z6YWP9	Z6YWP9_44	yes	NFKB inhibitor PDTC	NA	NA
 POS	Z6YWP9	Z6YWP9_45	yes	LPS only	NA	NA
 NEG	Z6YWP9	Z6YWP9_46	no	no treatment	NA	NA
 FF0120	DNWTWM	DNWTWM_1	yes	Straus organic milk		milk
-FF0121	DNWTWM	DNWTWM_2	yes	Straus organic kefir, plain	milk	kefir
+FF0121	DNWTWM	DNWTWM_2	yes	"Straus organic kefir, plain"	milk	kefir
 FF0125	DNWTWM	DNWTWM_3	yes	straus organic yogurt	milk	yogurt
 FF0137	DNWTWM	DNWTWM_4	yes	le gryuere switzerland	milk	cheese
 FF0139	DNWTWM	DNWTWM_5	yes	taleggio	milk	cheese
@@ -103,13 +103,13 @@ FF0149	DNWTWM	DNWTWM_9	yes	wildbrine raw organic kraut	cabbage	sauerkraut
 FF0152	DNWTWM	DNWTWM_10	yes	cultured raw vintage kraut	cabbage	sauerkraut
 FF0169	DNWTWM	DNWTWM_11	yes	raw cucumber	cucumber	cucumber
 FF0153	DNWTWM	DNWTWM_12	yes	britt's pickles	cucumber	dill pickle
-FF0154	DNWTWM	DNWTWM_13	yes	sonoma brinery fresh pickles, manhatton style	cucumber	dill pickle
+FF0154	DNWTWM	DNWTWM_13	yes	"sonoma brinery fresh pickles, manhatton style"	cucumber	dill pickle
 FF0155	DNWTWM	DNWTWM_14	yes	bubbie's baby kosher dill pickles	cucumber	dill pickle
 FF0156	DNWTWM	DNWTWM_15	yes	cultured classic dills	cucumber	dill pickle
 FF0171	DNWTWM	DNWTWM_16	yes	raw napa cabbage	cabbage	cabbage
 FF0157	DNWTWM	DNWTWM_17	yes	sinto gourmet kimchi (mild white)	cabbage	kimchi
 FF0158	DNWTWM	DNWTWM_18	yes	jongga mat kimchi	cabbage	kimchi
-FF0160	DNWTWM	DNWTWM_19	yes	mother in laow's kimchi, house	cabbage	kimchi
+FF0160	DNWTWM	DNWTWM_19	yes	"mother in laow's kimchi, house"	cabbage	kimchi
 FF0162	DNWTWM	DNWTWM_20	yes	cultured napa cabbage kimchi	cabbage	kimchi
 PDTC	DNWTWM	DNWTWM_21	yes	NFKB inhibitor PDTC	NA	NA
 LPS+	DNWTWM	DNWTWM_22	yes	LPS only	NA	NA
@@ -141,7 +141,7 @@ FF0231	NQGVPS	NQGVPS_13	yes	Moses Sleeper cheese	milk	cheese
 FF0232	NQGVPS	NQGVPS_14	yes	Harbison Cheese	milk	cheese
 FF0233	NQGVPS	NQGVPS_15	yes	Winnimere cheese	milk	cheese
 FF0234	NQGVPS	NQGVPS_16	yes	Gochujang	chile	fermented chili paste
-FF0235	NQGVPS	NQGVPS_17	yes	Turmeric, Ginger, Jalepeno sauerkraut	cabbage	sauerkraut
+FF0235	NQGVPS	NQGVPS_17	yes	"Turmeric, Ginger, Jalepeno sauerkraut"	cabbage	sauerkraut
 FF0236	NQGVPS	NQGVPS_18	yes	morel mushroom miso	chickpea	miso
 FF0237	NQGVPS	NQGVPS_19	yes	cultured sea kraut	cabbage	sauerkraut
 FF0238	NQGVPS	NQGVPS_20	yes	amazake	rice	amazake
@@ -164,7 +164,7 @@ FF0231	NQGVPS	NQGVPS_36	yes	Moses Sleeper cheese	milk	cheese
 FF0232	NQGVPS	NQGVPS_37	yes	Harbison Cheese	milk	cheese
 FF0233	NQGVPS	NQGVPS_38	yes	Winnimere cheese	milk	cheese
 FF0234	NQGVPS	NQGVPS_39	yes	Gochujang	chile	fermented chili paste
-FF0235	NQGVPS	NQGVPS_40	yes	Turmeric, Ginger, Jalepeno sauerkraut	cabbage	sauerkraut
+FF0235	NQGVPS	NQGVPS_40	yes	"Turmeric, Ginger, Jalepeno sauerkraut"	cabbage	sauerkraut
 FF0236	NQGVPS	NQGVPS_41	yes	morel mushroom miso	chickpea	miso
 FF0237	NQGVPS	NQGVPS_42	yes	cultured sea kraut	cabbage	sauerkraut
 FF0238	NQGVPS	NQGVPS_43	yes	amazake	rice	amazake
@@ -183,7 +183,7 @@ FF0250	4M38F8	4M38F8_9	yes	millet dosa batter	millet	dosa
 FF0251	4M38F8	4M38F8_10	yes	millet dosa	millet	dosa
 FF0254	4M38F8	4M38F8_11	yes	water kefir	sugar	water kefir
 FF0256	4M38F8	4M38F8_12	yes	fermented black beans (douchi)	soybean	douchi
-FF0121	4M38F8	4M38F8_13	yes	Straus organic kefir, plain	milk	kefir
+FF0121	4M38F8	4M38F8_13	yes	"Straus organic kefir, plain"	milk	kefir
 FF0123	4M38F8	4M38F8_14	yes	kefirlab probiotic kefir	milk	kefir
 FF0128	4M38F8	4M38F8_15	yes	alexandre family famr a2/a2 organic plain yogurt	milk	yogurt
 FF0130	4M38F8	4M38F8_16	yes	good culture cottage cheese	milk	cottage cheese
@@ -206,7 +206,7 @@ FF0250	4M38F8	4M38F8_32	yes	millet dosa batter	millet	dosa
 FF0251	4M38F8	4M38F8_33	yes	millet dosa	millet	dosa
 FF0254	4M38F8	4M38F8_34	yes	water kefir	sugar	water kefir
 FF0256	4M38F8	4M38F8_35	yes	fermented black beans (douchi)	soybean	douchi
-FF0121	4M38F8	4M38F8_36	yes	Straus organic kefir, plain	milk	kefir
+FF0121	4M38F8	4M38F8_36	yes	"Straus organic kefir, plain"	milk	kefir
 FF0123	4M38F8	4M38F8_37	yes	kefirlab probiotic kefir	milk	kefir
 FF0128	4M38F8	4M38F8_38	yes	alexandre family famr a2/a2 organic plain yogurt	milk	yogurt
 FF0130	4M38F8	4M38F8_39	yes	good culture cottage cheese	milk	cottage cheese
