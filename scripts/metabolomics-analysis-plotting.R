@@ -33,18 +33,50 @@ major_lookup <- tibble(substrate = names(MAJOR_MAP), major = unname(MAJOR_MAP))
 # reverse phase metabolomics
 reverse_phase_data <- read_csv("raw_data/metabolomics/2026_03_17_reverse_phase_lc_ms_metabolomics.csv") %>% 
   select(-1) %>% 
-  filter(!is.na(lab_id))
+  filter(!is.na(lab_id)) %>% 
+  pivot_longer(
+    cols = -(1:5), 
+    names_to = "metabolite_name",
+    values_to = "metabolite_intensity"
+  ) %>% 
+  rename(sample_id = study_sample_identifier, substrate = substrate_category) %>% 
+  left_join(major_lookup) %>% 
+  mutate(
+    major = replace_na(major, "Other"),
+    color = MAJOR_COLORS[major],
+    color = replace_na(color, "#AAAAAA"),
+    label = if_else(is.na(sample_name), sample_id, sample_name)
+  )
 
 # hilic metabolomics
+# metadata
 hilic_sample_metadata <- read_csv("metadata/metabolomics/PTFI_hilic_sample_metadata.csv", col_names = FALSE)
 
 META_FIELDS <- c("Global Unique Sample ID", "Study Sample ID", "Sample Name",
                  "Substrate Category", "Sample Type", "PTFI Batch")
+
 hilic_sample_metadata_wide <- hilic_sample_metadata %>%
   rename(field = 1) %>%
   pivot_longer(-field, names_to = "col_pos", values_to = "value") %>%
   pivot_wider(names_from = field, values_from = value) %>%
-  select(-col_pos)  
+  select(-col_pos)
 
+colnames(hilic_sample_metadata_wide) <- c("global_unique_sample_id", "sample_id", "sample_name", "substrate", "sample_type", "ptfi_batch")
+
+# data
 hilic_data <- read_csv("raw_data/metabolomics/2026_06_12_hilic_lc_ms_polar_metabolomics_modf_cols.csv") %>% 
-  filter(!is.na(.[[1]]))
+  filter(!is.na(.[[1]])) %>% 
+  pivot_longer(
+    cols = -(1:17),
+    names_to = "sample_id",
+    values_to = "metabolite_intensity"
+  ) %>% 
+  rename(metabolite_name = Annotation) %>% 
+  left_join(hilic_sample_metadata_wide) %>% 
+  left_join(major_lookup) %>% 
+  mutate(
+    major = replace_na(major, "Other"),
+    color = MAJOR_COLORS[major],
+    color = replace_na(color, "#AAAAAA"),
+    label = if_else(is.na(sample_name), sample_id, sample_name)
+  )
