@@ -7,7 +7,11 @@ library(colorRamp2)
 # Plotting metabolomics top detected metabolites heatmaps
 #################################
 
-# sample metadata
+#################################
+# Data import and prep
+#################################
+
+## sample metadata
 sample_metadata <- read_tsv("metadata/Combined master sheet updated 042126-8ed4f7f4.tsv")
 
 MAJOR_MAP <- c(
@@ -30,7 +34,7 @@ MAJOR_ORDER <- c("Vegetable", "Grain", "Legume / Soy", "Dairy", "Meat", "Sugar",
 
 major_lookup <- tibble(substrate = names(MAJOR_MAP), major = unname(MAJOR_MAP))
 
-# reverse phase metabolomics
+## reverse phase metabolomics
 reverse_phase_data <- read_csv("raw_data/metabolomics/2026_03_17_reverse_phase_lc_ms_metabolomics.csv") %>% 
   select(-1) %>% 
   filter(!is.na(lab_id)) %>% 
@@ -48,7 +52,7 @@ reverse_phase_data <- read_csv("raw_data/metabolomics/2026_03_17_reverse_phase_l
     label = if_else(is.na(sample_name), sample_id, sample_name)
   )
 
-# hilic metabolomics
+## hilic metabolomics
 # metadata
 hilic_sample_metadata <- read_csv("metadata/metabolomics/PTFI_hilic_sample_metadata.csv", col_names = FALSE)
 
@@ -80,3 +84,10 @@ hilic_data <- read_csv("raw_data/metabolomics/2026_06_12_hilic_lc_ms_polar_metab
     color = replace_na(color, "#AAAAAA"),
     label = if_else(is.na(sample_name), sample_id, sample_name)
   )
+
+
+#################################
+# Plotting metabolomics top detected metabolites heatmaps
+#################################
+TOP_METABOLITES <- 50
+MIN_DETECTION <- 0.10

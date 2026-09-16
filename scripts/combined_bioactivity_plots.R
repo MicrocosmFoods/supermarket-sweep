@@ -2,12 +2,24 @@ library(ggplot2)
 library(ggpubr)
 
 # -----------------------------------------------------------------------------
-# Combine IFN and NFkB figures in a grid
+# combine viability unfiltered and filtered plots in a grid
 # -----------------------------------------------------------------------------
 
-p1 <- ifn_violin_plot
-p2 <- seap_violin_plot
+p1 <- unfiltered_viability_violin_plot
+p2 <- filtered_viability_violin_plot
 
 combined_plot <- ggarrange(p1, p2, ncol=1, common.legend = FALSE, labels = c("A", "B")) 
 
-ggsave("figures/combined_ifn_nfkb_bioactivity_plots.png", combined_plot, width=30, height=15, units=c("cm"))
+ggsave("figures/combined_viability_plots.png", combined_plot, width=30, height=15, units=c("cm"))
+
+
+# -----------------------------------------------------------------------------
+# combine NFKB unfiltered and filtered plots in a grid
+# -----------------------------------------------------------------------------
+
+p1 <- unfiltered_seap_violin_plot
+p2 <- filtered_seap_violin_plot
+
+combined_plot <- ggarrange(p1, p2, ncol=1, common.legend = FALSE, labels = c("A", "B")) 
+
+ggsave("figures/combined_seap_plots.png", combined_plot, width=30, height=15, units=c("cm"))
