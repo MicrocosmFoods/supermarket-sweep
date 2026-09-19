@@ -122,7 +122,7 @@ FF0170	M6PXYP	M6PXYP_5	yes	raw cabbage	cabbage	cabbage
 FF0145	M6PXYP	M6PXYP_6	yes	wild west ferments simply sauerkraut	cabbage	sauerkraut
 FF0171	M6PXYP	M6PXYP_7	yes	raw napa cabbage	cabbage	cabbage
 FF0162	M6PXYP	M6PXYP_8	yes	cultured napa cabbage kimchi	cabbage	kimchi
-ruxolitinib	M6PXYP	M6PXYP_9	yes	NFKB inhibitor PDTC	NA	NA
+ruxolitinib	M6PXYP	M6PXYP_9	yes	Jak/Stat inhibitor ruxolitinib	NA	NA
 LPS+	M6PXYP	M6PXYP_10	yes	LPS only	NA	NA
 LPS-	M6PXYP	M6PXYP_11	no	no treatment	NA	NA
 FF0218	NQGVPS	NQGVPS_1	yes	Burlap & Barrel white peppercorns	pepper	peppercorn
