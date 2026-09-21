@@ -55,6 +55,8 @@ reverse_phase_data <- read_csv("raw_data/metabolomics/2026_03_17_reverse_phase_l
     label = if_else(is.na(sample_name), sample_id, sample_name)
   )
 
+write_tsv(reverse_phase_data, "results/metabolomics/reverse_phase_metabolomics_tidy.tsv")
+
 ## hilic metabolomics
 # metadata
 hilic_sample_metadata <- read_csv("metadata/metabolomics/PTFI_hilic_sample_metadata.csv", col_names = FALSE)
@@ -88,6 +90,7 @@ hilic_data <- read_csv("raw_data/metabolomics/2026_06_12_hilic_lc_ms_polar_metab
     label = if_else(is.na(sample_name), sample_id, sample_name)
   )
 
+write_tsv(hilic_data, "results/metabolomics/hilic_metabolomics_tidy.tsv")
 
 #################################
 # normalization and selecting top metabolites to plot

@@ -83,6 +83,38 @@ sylph_profile_stats_5p_cutoff <- sylph_profiles_metadata %>%
     .groups = "drop"
   )
 
+sylph_profiles_metadata %>% 
+  filter(Eff_cov > 1) %>% 
+  group_by(species) %>% 
+  distinct() %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  print(n=70)
+
+sylph_profiles_metadata %>% 
+  filter(Eff_cov > 1) %>% 
+  distinct(species) %>% 
+  count()
+
+sylph_profiles_metadata %>% 
+  mutate(phylum = str_extract(taxonomy, "^[^;]+")) %>% 
+  filter(phylum %in% c('Ascomycota', 'Mucoromycota')) %>% 
+  group_by(species) %>% 
+  distinct() %>% 
+  count() %>% 
+  arrange(desc(n))
+
+sylph_profiles_metadata %>% 
+  mutate(phylum = str_extract(taxonomy, "^[^;]+")) %>% 
+  filter(phylum %in% c('Ascomycota', 'Mucoromycota')) %>% 
+  filter(Eff_cov > 1) %>% 
+  group_by(species) %>% 
+  distinct() %>% 
+  count() %>% 
+  arrange(desc(n))
+
+
+
 #################################
 # Stacked bar plot of abundance of top species in samples
 #################################

@@ -221,7 +221,7 @@ filtered_ifn_violin_plot <- ggplot(filtered_plot_df, aes(x = Group, y = normaliz
   ) +
   theme_minimal(base_size = 12) +
   theme(
-    panel.grid.major.x = element_blank(),s
+    panel.grid.major.x = element_blank(),
     panel.grid.minor = element_blank(),
     panel.grid.major.y = element_line(color = "#E5E5E5", linewidth = 0.5),
     axis.text.x = element_text(face = "bold", color = "gray20", size = 10),
@@ -239,3 +239,37 @@ ggsave("figures/IFN_unfiltered_viability_norm_plot.png", unfiltered_ifn_violin_p
 ggsave("figures/IFN_filtered_viability_norm_plot.png", filtered_ifn_violin_plot, width=30, height=8, units=c("cm"))
 ggsave("figures/IFN_filtered_viability_norm_plot.svg", filtered_ifn_violin_plot, width=30, height=8, units=c("cm"))
 
+
+# -----------------------------------------------------------------------------
+# stats
+# -----------------------------------------------------------------------------
+
+# fitler for normalized IFN results that are equal or less than median IFN of Rux inhibitor
+median_normalized_IFN_inhibitor <- filtered_plot_df %>% 
+  filter(Sample_type == "inhibitor") %>% 
+  select(normalized_IFN) %>% 
+  summarise(median = median(normalized_IFN)) %>% 
+  pull(median)
+
+filtered_ifn_results<- filtered_plot_df %>% 
+  select(Date, Sample_number, BioRep, Sample, Sample_type, `Substrate category`, Group, `Food type`, normalized_IFN) %>% 
+  filter(normalized_IFN <= 100) %>% 
+  filter(Sample_type == "Sample" | Sample_type == "sample") %>% 
+  distinct(Sample_number, .keep_all = TRUE)
+
+filtered_ifn_results %>% 
+  group_by(Group) %>% 
+  count() %>% 
+  arrange(desc(n))
+
+filtered_ifn_results_inhibitor <- filtered_plot_df %>% 
+  select(Date, Sample_number, BioRep, Sample, Sample_type, `Substrate category`, `Food type`, normalized_IFN) %>% 
+  filter(normalized_IFN <= median_normalized_IFN_inhibitor) %>% 
+  filter(Sample_type == "Sample" | Sample_type == "sample") %>% 
+  distinct(Sample_number, .keep_all = TRUE)
+
+filtered_ifn_results_inhibitor %>% 
+  mutate(Substrate = str_to_sentence(`Substrate category`)) %>% 
+  group_by(Substrate) %>% 
+  count() %>% 
+  arrange(desc(n))
