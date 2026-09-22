@@ -28,12 +28,12 @@ rep_mags_metadata <- mag_metadata %>%
   select(genome_accession, completeness, contamination, contigs, taxonomy, species)
 
 # sylph profiling results
-sylph_profiles_preliminary_run <- read_tsv("results/combined_sylph_profiles_preliminary_run.tsv") %>%
+sylph_profiles_preliminary_run <- read_tsv("raw_data/metagenomics/combined_sylph_profiles_preliminary_run.tsv") %>%
   mutate(accession_name = gsub("_trimmed_1.fastq.gz", "", Sample_file)) %>% 
   mutate(genome_accession = gsub(".fa", "", Genome_file)) %>% 
   select(accession_name, genome_accession, Sequence_abundance, Adjusted_ANI, Eff_cov, Contig_name)
 
-sylph_profiles_full_run <- read_tsv("results/combined_sylph_profiles_full_run.tsv") %>% 
+sylph_profiles_full_run <- read_tsv("raw_data/metagenomics/combined_sylph_profiles_full_run.tsv") %>% 
   mutate(accession_name = gsub("_trimmed_1.fastq.gz", "", Sample_file)) %>% 
   mutate(genome_accession = gsub(".fa", "", Genome_file)) %>% 
   select(accession_name, genome_accession, Sequence_abundance, Adjusted_ANI, Eff_cov, Contig_name)
@@ -41,11 +41,11 @@ sylph_profiles_full_run <- read_tsv("results/combined_sylph_profiles_full_run.ts
 all_sylph_profiles <- rbind(sylph_profiles_preliminary_run, sylph_profiles_full_run)
 
 # sample metadata
-sample_metadata_preliminary_run <- read.csv("metadata/2025-12-23-seqcoast-preliminary-run-samples-metadata.csv") %>% 
+sample_metadata_preliminary_run <- read.csv("metadata/metagenomics/2025-12-23-seqcoast-preliminary-run-samples-metadata.csv") %>% 
   mutate(accession_name = gsub("_R1.fastq.gz", "", fastq_1)) %>% 
   select(accession_name, sample_name, fermented_food)
 
-sample_metadata_full_run <- read.csv("metadata/2026-01-26-seqcoast-full-run-sample-metadata.csv") %>% 
+sample_metadata_full_run <- read.csv("metadata/metagenomics/2026-01-26-seqcoast-full-run-sample-metadata.csv") %>% 
   mutate(accession_name = gsub("_R1.fastq.gz", "", fastq_1)) %>% 
   select(accession_name, sample_name, fermented_food)
 
@@ -57,7 +57,7 @@ sylph_profiles_metadata <- left_join(all_sylph_profiles, rep_mags_metadata) %>%
   left_join(all_metadata) %>% 
   mutate(genus = str_extract(taxonomy, "[^;]+$"))
 
-write_tsv(sylph_profiles_metadata, "results/2026-01-30-seqcoast-supermarket-sweep-profiles.tsv")
+write_tsv(sylph_profiles_metadata, "results/metagenomics/2026-01-30-seqcoast-supermarket-sweep-profiles.tsv")
 
 #################################
 # Basic summary stats
@@ -229,7 +229,7 @@ profiles_0.05_covg_filtered_binary <- sylph_profiles_metadata %>%
   )
 
 # write out presence/absence TSV
-write_tsv(profiles_0.05_covg_filtered_binary, "results/all-profiles-0.05x-covg-filtered-binary-matrix.tsv")
+write_tsv(profiles_0.05_covg_filtered_binary, "results/metagenomics/all-profiles-0.05x-covg-filtered-binary-matrix.tsv")
 
 #################################
 # Plot heatmap of top most abundant species
@@ -420,7 +420,7 @@ draw(ht, heatmap_legend_side = "right", annotation_legend_side = "right", merge_
 dev.off()
 
 png(file.path(OUT, "Metagenomics_Full_Abundance_Heatmap.png"),
-    width = FIG_WIDTH, height = FIG_HEIGHT, units = "in", res = 200)
+    width = FIG_WIDTH, height = FIG_HEIGHT, units = "in", res = 400)
 draw(ht, heatmap_legend_side = "right", annotation_legend_side = "right", merge_legend = TRUE,
      align_heatmap_legend = "heatmap_top", align_annotation_legend = "heatmap_top")
 dev.off()

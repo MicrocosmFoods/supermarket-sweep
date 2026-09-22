@@ -24,7 +24,7 @@ category_colors <- c(
   "Grain"           = "#FD966C",
   "Fruit"           = "#DDB9F9",
   "Dairy"           = "#7394E9",
-  "Meat"            = "#F6F4EA",
+  "Meat"            = "#EAE8DF",
   "Sugar"           = "#E7D4C0",
   "LPS-"            = "#D3D3D3",
   "Ruxolitinib"     = "#A59BCE",

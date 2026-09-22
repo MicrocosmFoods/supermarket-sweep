@@ -203,7 +203,7 @@ build_metabolomics_heatmap <- function(df_norm, top_metabolites, title) {
   )
 }
 
-save_heatmap <- function(ht, filename, width = 12, height = 10, res = 300) {
+save_heatmap <- function(ht, filename, width = 12, height = 10, res = 400) {
   pdf(paste0(filename, ".pdf"), width = width, height = height)
   draw(ht)
   dev.off()
