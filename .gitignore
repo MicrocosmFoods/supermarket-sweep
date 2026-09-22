@@ -1,3 +1,4 @@
+.RDataTmp
 results/metabolomics/*.tsv
 results/rnaseq/2026-06-09-combined-expression-matrix.tsv
 .DS_Store

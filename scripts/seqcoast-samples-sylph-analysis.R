@@ -55,7 +55,8 @@ all_metadata <- rbind(sample_metadata_preliminary_run, sample_metadata_full_run)
 # merge with genome and sample metadata
 sylph_profiles_metadata <- left_join(all_sylph_profiles, rep_mags_metadata) %>% 
   left_join(all_metadata) %>% 
-  mutate(genus = str_extract(taxonomy, "[^;]+$"))
+  mutate(genus = str_extract(taxonomy, "[^;]+$")) %>% 
+  mutate(sample_code = str_extract(sample_name, "^[^_]+"))
 
 write_tsv(sylph_profiles_metadata, "results/metagenomics/2026-01-30-seqcoast-supermarket-sweep-profiles.tsv")
 

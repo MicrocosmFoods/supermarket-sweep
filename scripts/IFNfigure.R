@@ -273,3 +273,16 @@ filtered_ifn_results_inhibitor %>%
   group_by(Substrate) %>% 
   count() %>% 
   arrange(desc(n))
+
+# create table of median normalized IFN for each fermented food extract result
+filtered_normalized_IFN_table <- filtered_plot_df %>% 
+  filter(Sample_type == "Sample" | Sample_type == "sample") %>% 
+  filter(normalized_viability > 70) %>% 
+  select(Sample_number, Sample, `Substrate category`, normalized_IFN) %>% 
+  group_by(Sample_number, Sample, `Substrate category`) %>%
+  summarise(median_normalized_IFN = median(normalized_IFN)) %>% 
+  mutate(Substrate = str_to_sentence(`Substrate category`)) %>% 
+  select(Sample_number, Sample, Substrate, median_normalized_IFN) %>% 
+  mutate(median_normalized_IFN = round(median_normalized_IFN, 2))
+
+write_tsv(filtered_normalized_IFN_table, "results/bioactivity/filtered_normalized_IFN_table_supp.tsv")
