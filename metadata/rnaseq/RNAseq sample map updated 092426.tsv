@@ -61,12 +61,6 @@ FF0158	DNWTWM	DNWTWM_18	yes	jongga mat kimchi	jongga mat kimchi	cabbage	kimchi	r
 FF0160	DNWTWM	DNWTWM_19	yes	"mother in laow's kimchi, house"	"mother in laow's kimchi, house"	cabbage	kimchi	replicate_1
 FF0162	DNWTWM	DNWTWM_20	yes	cultured napa cabbage kimchi	cultured napa cabbage kimchi	cabbage	kimchi	replicate_1
 FF0162	M6PXYP	M6PXYP_8	yes	cultured napa cabbage kimchi	cultured napa cabbage kimchi	cabbage	kimchi	replicate_2
-FF0169	DNWTWM	DNWTWM_11	yes	raw cucumber	raw cucumber	cucumber	cucumber	replicate_1
-FF0169	M6PXYP	M6PXYP_3	yes	raw cucumber	raw cucumber	cucumber	cucumber	replicate_2
-FF0170	DNWTWM	DNWTWM_6	yes	raw cabbage	raw cabbage	cabbage	cabbage	replicate_1
-FF0170	M6PXYP	M6PXYP_5	yes	raw cabbage	raw cabbage	cabbage	cabbage	replicate_2
-FF0171	DNWTWM	DNWTWM_16	yes	raw napa cabbage	raw napa cabbage	cabbage	cabbage	replicate_1
-FF0171	M6PXYP	M6PXYP_7	yes	raw napa cabbage	raw napa cabbage	cabbage	cabbage	replicate_2
 FF0172	Z6YWP9	Z6YWP9_9	yes	rejuvelac	rejuvelac	rye berries	rejuvelac	replicate_1
 FF0172	Z6YWP9	Z6YWP9_32	yes	rejuvelac	rejuvelac	rye berries	rejuvelac	replicate_2
 FF0173	Z6YWP9	Z6YWP9_10	yes	GT's kombucha	GT's kombucha	sugar	kombucha	replicate_1
@@ -183,8 +177,8 @@ FF0245	4M38F8	4M38F8_5	yes	Piima yogurt	Piima yogurt	milk	yogurt	replicate_1
 FF0245	4M38F8	4M38F8_28	yes	Piima yogurt	Piima yogurt	milk	yogurt	replicate_2
 FF0246	4M38F8	4M38F8_6	yes	Viili yogurt	Viili yogurt	milk	yogurt	replicate_1
 FF0246	4M38F8	4M38F8_29	yes	Viili yogurt	Viili yogurt	milk	yogurt	replicate_2
-FF0247	4M38F8	4M38F8_7	yes	kefir	kefir	milk	yogurt	replicate_1
-FF0247	4M38F8	4M38F8_30	yes	kefir	kefir	milk	yogurt	replicate_2
+FF0247	4M38F8	4M38F8_7	yes	kefir	Traditional kefir	milk	yogurt	replicate_1
+FF0247	4M38F8	4M38F8_30	yes	kefir	Traditional kefir	milk	yogurt	replicate_2
 FF0248	4M38F8	4M38F8_8	yes	dosa batter	dosa batter	rice	dosa	replicate_1
 FF0248	4M38F8	4M38F8_31	yes	dosa batter	dosa batter	rice	dosa	replicate_2
 FF0250	4M38F8	4M38F8_9	yes	millet dosa batter	millet dosa batter	millet	dosa	replicate_1

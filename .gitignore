@@ -1,6 +1,7 @@
-.RDataTmp
+2026-09-25-combined-expression-matrix.tsv.gz
+*.RDataTmp*
 results/metabolomics/*.tsv
-results/rnaseq/2026-06-09-combined-expression-matrix.tsv
+2026-09-25-combined-expression-matrix.tsv
 .DS_Store
 .RData
 .Rhistory
